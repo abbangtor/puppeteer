@@ -1,0 +1,5290 @@
+[
+    {
+        "name": "Fläskytterfilé Sverige",
+        "weight": "CA: 1KG",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/h06/h98/10074849869854/2371580900003_1588716341095_master_axfood_300",
+        "price": 59.9,
+        "weightUnit": "ca: 1kg",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Fläskytterfilé",
+        "weight": "CA: 1KG",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/h84/ha8/13080998969374/2371584000006_1655191568891_master_axfood_300",
+        "price": 49.9,
+        "weightUnit": "ca: 1kg",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Kycklingfärs",
+        "weight": "1KG",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/hf2/hff/13802038689822/7300327668000_1672655173038_master_axfood_300",
+        "price": 69.9,
+        "weightUnit": "1kg",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Pulled Pork",
+        "weight": "500G",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/hef/ha2/12264235597854/5707196215526_1636461346809_master_axfood_300",
+        "price": 54.9,
+        "weightUnit": "500g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Pulled Turkey",
+        "weight": "500 G",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/hdc/h39/12181783773214/5707196212068_1634201469903_master_axfood_300",
+        "price": 54.9,
+        "weightUnit": "500 g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Chicken Pulled",
+        "weight": "450G",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/hae/hf5/12181785083934/5707196221008_1634202371934_master_axfood_300",
+        "price": 54.9,
+        "weightUnit": "450g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Pulled Pork Taco",
+        "weight": "475G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 54.9,
+        "weightUnit": "475g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Skinka Basturökt Skivad",
+        "weight": "120G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 23.9,
+        "weightUnit": "120g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Skinka Extrarökt Skivad",
+        "weight": "120G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 23.9,
+        "weightUnit": "120g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Kokt Skinka Skivad",
+        "weight": "120G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 23.9,
+        "weightUnit": "120g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Skinka Ugnsrostad",
+        "weight": "120G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 23.9,
+        "weightUnit": "120g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Skinka Björkspånsrökt Skivad",
+        "weight": "120G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 23.9,
+        "weightUnit": "120g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Lindösalami Peppar Skivad",
+        "weight": "120G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 23.9,
+        "weightUnit": "120g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Stekfläsk Skivat",
+        "weight": "375G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 29.9,
+        "weightUnit": "375g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Lövbiff Skivad Irland",
+        "weight": "CA: 1.4KG",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 139,
+        "weightUnit": "ca: 1.4kg",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Hamburgare Irland",
+        "weight": "452G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 39.9,
+        "weightUnit": "452g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Kycklingfilé Bröstfilé Sverige",
+        "weight": "CA: 850G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 119,
+        "weightUnit": "ca: 850g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Lårfilé Kyckling Färsk Sverige",
+        "weight": "CA: 850G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 119,
+        "weightUnit": "ca: 850g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Nuggets Kyckling Frysta",
+        "weight": "1KG",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/hbf/h55/12783639724062/7340083457418_1647609652068_master_axfood_300",
+        "price": 38.9,
+        "weightUnit": "1kg",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Kyckling Burgare",
+        "weight": "10X90G",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/h89/ha5/10422804447262/7340083482809_1597956025296_master_axfood_300",
+        "price": 49.9,
+        "weightUnit": "10x90g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Kyckling Marinerad Bröstfile Fryst",
+        "weight": "800G",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/h72/h31/13938597232670/4770513127216_1675386645912_master_axfood_300",
+        "price": 49.9,
+        "weightUnit": "800g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Grillkorv Barnens",
+        "weight": "400G",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/he2/hea/14194262016030/7310620020665_1681291863473_master_axfood_300",
+        "price": 19.9,
+        "weightUnit": "400g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Leverpastej Bredbar",
+        "weight": "2P/75G",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/h90/he8/13367606640670/7310941801066_1662642921627_master_axfood_300",
+        "price": 12.9,
+        "weightUnit": "2p/75g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Gräddpastej",
+        "weight": "200G",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/hd8/had/13367607623710/7310941801592_1662642930014_master_axfood_300",
+        "price": 12.9,
+        "weightUnit": "200g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Mild &amp; Krämig Leverpastej Bredbar",
+        "weight": "200G",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/hb7/hba/13367607296030/7310941801554_1662642927713_master_axfood_300",
+        "price": 12.9,
+        "weightUnit": "200g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Bacon 3-pack",
+        "weight": "420G",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/he7/hc7/10832217964574/7300206718000_1606895229922_master_axfood_300",
+        "price": 37.9,
+        "weightUnit": "420g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Falukorv Ring",
+        "weight": "800G",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/h3b/ha0/13523283738654/7300206787006_1666169744474_master_axfood_300",
+        "price": 29.9,
+        "weightUnit": "800g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Grillkorv Kyckling",
+        "weight": "400G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 34,
+        "weightUnit": "400g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Kyckling- Chorizo",
+        "weight": "400G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 34,
+        "weightUnit": "400g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Cognacmedwurst Enrisrökt Svart",
+        "weight": "350G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 24.9,
+        "weightUnit": "350g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Cognacmedwurst Röd",
+        "weight": "350G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 24.9,
+        "weightUnit": "350g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Varmkorv",
+        "weight": "900G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 44.9,
+        "weightUnit": "900g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Lunchkorv",
+        "weight": "800G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 44.9,
+        "weightUnit": "800g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Middagskorv Vego",
+        "weight": "300G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 25.9,
+        "weightUnit": "300g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Kyckling Ben Frysta",
+        "weight": "1KG",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 34.9,
+        "weightUnit": "1kg",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Kyckling Vingar Frysta",
+        "weight": "1KG",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 34.9,
+        "weightUnit": "1kg",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Kyckling Lår Frysta",
+        "weight": "1KG",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 34.9,
+        "weightUnit": "1kg",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Kyckling Bröstfilé Sverige",
+        "weight": "900G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 119,
+        "weightUnit": "900g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Kyckling Lårfilé",
+        "weight": "900G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 115,
+        "weightUnit": "900g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Kyckling Bröstfilé Grillkryddad",
+        "weight": "800G",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/h91/h28/11155498237982/7340083486722_1612388482458_master_axfood_300",
+        "price": 119,
+        "weightUnit": "800g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Kyckling Lårfilé Grillkryddad",
+        "weight": "800G",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/hf0/h1a/11155498631198/7340083486739_1612388484238_master_axfood_300",
+        "price": 115,
+        "weightUnit": "800g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Kyckling Klubba Fryst",
+        "weight": "1KG",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/h3a/h0e/9112928518174/7340083462214_1523912174319_master_axfood_300",
+        "price": 34.9,
+        "weightUnit": "1kg",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Kyckling Filé Svensk Fryst",
+        "weight": "1KG",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/ha8/h9a/13408076496926/7340083434716_1663595414865_master_axfood_300",
+        "price": 89.9,
+        "weightUnit": "1kg",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Innerfilé av Svensk Kyckling Fryst",
+        "weight": "700G",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/h88/ha7/13408076824606/7340083434723_1663595417047_master_axfood_300",
+        "price": 62.9,
+        "weightUnit": "700g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Majskyckling Filé Frysta",
+        "weight": "1KG",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/hd4/h25/13408075120670/7340083434709_1663595112101_master_axfood_300",
+        "price": 145,
+        "weightUnit": "1kg",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Grillkorv Kyckling Tjock",
+        "weight": "480G",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/h43/hc7/8926558191646/07340083456749.jpg_1494493524377_master_axfood_300",
+        "price": 25.9,
+        "weightUnit": "480g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Köttbullar Kyckling",
+        "weight": "350G",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/h5d/h03/8915820904478/07340083453892.jpg_1491483646791_master_axfood_300",
+        "price": 34.9,
+        "weightUnit": "350g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Kyckling Lårfilé Fryst",
+        "weight": "700 G",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/hae/h45/12095236145182/7300322557002_1632136830173_master_axfood_300",
+        "price": 73.9,
+        "weightUnit": "700 g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Kyckling Innerfilé Fryst",
+        "weight": "700G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 64.9,
+        "weightUnit": "700g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Kycklingfilé Fryst",
+        "weight": "1KG",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 108,
+        "weightUnit": "1kg",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Wienerkorv Kyckling",
+        "weight": "300G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 29.9,
+        "weightUnit": "300g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Kycklingfärs Naturell",
+        "weight": "500G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 46.9,
+        "weightUnit": "500g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Kyckling Klubba Fryst",
+        "weight": "2000G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 54.9,
+        "weightUnit": "2000g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Majskyckling Bröstfilé Sverige",
+        "weight": "CA: 750G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 165,
+        "weightUnit": "ca: 750g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Majskyckling Hel Sverige",
+        "weight": "CA: 1.3KG",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 72.9,
+        "weightUnit": "ca: 1.3kg",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Kycklingfilé Strimlad",
+        "weight": "300G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 49.9,
+        "weightUnit": "300g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Kycklingben Färska Sverige",
+        "weight": "CA: 900G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 49.9,
+        "weightUnit": "ca: 900g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Kycklingklubba Sverige",
+        "weight": "CA: 900G",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/ha9/h96/9374196760606/2359634300009_1550504441611_master_axfood_300",
+        "price": 57.9,
+        "weightUnit": "ca: 900g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Kyckling Hel Färsk Sverige",
+        "weight": "CA: 1.35KG",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/hc0/h3f/9822541643806/2359715300003_1580806236668_master_axfood_300",
+        "price": 53.9,
+        "weightUnit": "ca: 1.35kg",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Kalkonbacon",
+        "weight": "100G",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/he8/h09/10672420782110/7331044002839_1603983368562_master_axfood_300",
+        "price": 16.9,
+        "weightUnit": "100g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Kycklingfärs",
+        "weight": "750G",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/h10/h6a/9821377462302/7313940013119_1580763315110_master_axfood_300",
+        "price": 77.9,
+        "weightUnit": "750g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Stekkorv Kyckling",
+        "weight": "600G",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/h0d/hce/8926560747550/07340083456756.jpg_1494493826675_master_axfood_300",
+        "price": 35.9,
+        "weightUnit": "600g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Kassler Storbit",
+        "weight": "CA: 1.5KG",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/he7/hb7/8861742039070/02381229200005.jpg_master_axfood_300",
+        "price": 79.9,
+        "weightUnit": "ca: 1.5kg",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Kassler Bit",
+        "weight": "CA: 750G",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/hd8/h93/8861740990494/2381229000001.jpg_master_axfood_300",
+        "price": 82.9,
+        "weightUnit": "ca: 750g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Chorizo Kyckling",
+        "weight": "480G",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/hde/h53/8926559436830/07340083456763.jpg_1494493543177_master_axfood_300",
+        "price": 29.9,
+        "weightUnit": "480g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Kalkonbröst Basturökt Skivad",
+        "weight": "120G",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/h29/hbf/12990780932126/7312331808594_1652796072692_master_axfood_300",
+        "price": 32.9,
+        "weightUnit": "120g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Kyckling Grillad Skivad",
+        "weight": "120G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 32.9,
+        "weightUnit": "120g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Kyckling Extrarökt Skivad",
+        "weight": "120G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 32.9,
+        "weightUnit": "120g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Kycklingkebab Fryst",
+        "weight": "700G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 67.9,
+        "weightUnit": "700g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Köttbullar Kyckling Frysta",
+        "weight": "1KG",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 49.9,
+        "weightUnit": "1kg",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Kycklingbröst Filé Grillad Skivad",
+        "weight": "200G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 44.9,
+        "weightUnit": "200g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Kyckling Grillad Tärnad",
+        "weight": "200G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 41.9,
+        "weightUnit": "200g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Kycklinginnerf Grillad",
+        "weight": "200G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 44.9,
+        "weightUnit": "200g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Fläskfilé Vakuumförpackad Sverige",
+        "weight": "CA: 500G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 195,
+        "weightUnit": "ca: 500g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Kycklingbacon",
+        "weight": "100G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 14.9,
+        "weightUnit": "100g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Bacon Snitt",
+        "weight": "CA: 1KG",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 49.9,
+        "weightUnit": "ca: 1kg",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Köttbullar Kalkon Små Frysta",
+        "weight": "400G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 51.9,
+        "weightUnit": "400g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Grillkorv Kyckling",
+        "weight": "400G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 29.9,
+        "weightUnit": "400g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Kyckling Filé Fryst",
+        "weight": "2000G",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/h01/hd4/12783637692446/7340083434976_1647609347109_master_axfood_300",
+        "price": 139,
+        "weightUnit": "2000g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Chicken Nuggets Frysta",
+        "weight": "350G",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/hfb/h92/9559494787102/7313940580055_1566496315556_master_axfood_300",
+        "price": 36.9,
+        "weightUnit": "350g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Buffalo Wings Grillade Frysta",
+        "weight": "500G",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/hdd/h95/9559328981022/7313940574504_1566483160450_master_axfood_300",
+        "price": 36.9,
+        "weightUnit": "500g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Kyckling Taco Fryst",
+        "weight": "600G",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/h6d/ha0/9559328653342/7313940267543_1566483158254_master_axfood_300",
+        "price": 85.9,
+        "weightUnit": "600g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Chicken Kebab Fryst",
+        "weight": "500G",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/hd6/h36/9559329636382/7313940580024_1566483173548_master_axfood_300",
+        "price": 36.9,
+        "weightUnit": "500g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Chicken Nuggets Crispy Frysta",
+        "weight": "350G",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/hac/hba/9334454255646/7313940580154_1547488800178_master_axfood_300",
+        "price": 36.9,
+        "weightUnit": "350g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Chicken Drumsticks Grillade Frysta",
+        "weight": "500G",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/h44/h67/9559460118558/7313940574900_1566494851953_master_axfood_300",
+        "price": 36.9,
+        "weightUnit": "500g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Drumsticks Chicken Bbq Fryst",
+        "weight": "500G",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/h66/h41/9559329308702/7313940574603_1566483163786_master_axfood_300",
+        "price": 36.9,
+        "weightUnit": "500g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Kycklinggyros Fryst",
+        "weight": "600G",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/h87/hd9/9559424401438/7313940267574_1566491420670_master_axfood_300",
+        "price": 85.9,
+        "weightUnit": "600g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Chicken Rings Frysta",
+        "weight": "350G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 36.9,
+        "weightUnit": "350g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Kyckling Schnitzel",
+        "weight": "370G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 36.9,
+        "weightUnit": "370g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Burgare Kyckling Crispy Frysta",
+        "weight": "760G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 96.9,
+        "weightUnit": "760g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Köttbullar av Hönskött",
+        "weight": "450G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 38.9,
+        "weightUnit": "450g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Kycklingpastej Bredbar",
+        "weight": "190G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 19.9,
+        "weightUnit": "190g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Oxfilé Brasilien",
+        "weight": "CA: 1.6KG",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 369,
+        "weightUnit": "ca: 1.6kg",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Kyckling Filé Fryst",
+        "weight": "900G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 67.9,
+        "weightUnit": "900g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Kyckling Innerfilé Fryst",
+        "weight": "700G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 49.9,
+        "weightUnit": "700g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Kyckling Lårfilé",
+        "weight": "700G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 54.9,
+        "weightUnit": "700g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Kycklingfilé 2-delad",
+        "weight": "800G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 74.9,
+        "weightUnit": "800g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Fuet Lufttorkad Salami",
+        "weight": "170G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 39.9,
+        "weightUnit": "170g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Hamburgare 8x90g Frysta",
+        "weight": "720G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 69.9,
+        "weightUnit": "720g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Hamburgare Högrev 99% Frysta",
+        "weight": "4P/600G",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/h23/h6a/9031939129374/07340083463921.jpg_1513919964871_master_axfood_300",
+        "price": 74.9,
+        "weightUnit": "4p/600g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Angusburgare Fryst",
+        "weight": "454G",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/hf4/hdb/11258373832734/7340083485190_1614072058919_master_axfood_300",
+        "price": 59.9,
+        "weightUnit": "454g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Minutkyckling Stekt&amp;tärnad Bbq-smak",
+        "weight": "200G",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/h03/h38/12124536307742/7300324051003_1632745554803_master_axfood_300",
+        "price": 42.9,
+        "weightUnit": "200g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Minutkyckling Stekt&amp;skivad Classic",
+        "weight": "200G",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/h0a/h97/12124535652382/7300324052000_1632745254508_master_axfood_300",
+        "price": 42.9,
+        "weightUnit": "200g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Minutkyckling Stekt&amp;skivat Ceasar",
+        "weight": "200G",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/h72/h77/12150625075230/7300324050006_1633421168342_master_axfood_300",
+        "price": 42.9,
+        "weightUnit": "200g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Kalkonfärs Fryst",
+        "weight": "500G",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/hd2/h9f/9019520221214/07331044081001.jpg_1512418623231_master_axfood_300",
+        "price": 54.9,
+        "weightUnit": "500g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Kalkonlårfilé Strimlad",
+        "weight": "450G",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/h45/h92/9019520614430/07331044081100.jpg_1512418631137_master_axfood_300",
+        "price": 54.9,
+        "weightUnit": "450g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Grillkorv Kalkon",
+        "weight": "400G",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/h6d/hb9/11475478216734/7331044008640_1617691254626_master_axfood_300",
+        "price": 31.9,
+        "weightUnit": "400g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Köttbullar Frysta",
+        "weight": "600G",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/hd2/h9a/8926137581598/07340083405655.jpg_1494401448788_master_axfood_300",
+        "price": 42.9,
+        "weightUnit": "600g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Köttbullar Delikatess Fryst",
+        "weight": "600G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 44.9,
+        "weightUnit": "600g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Blandfärs 20% Sverige",
+        "weight": "CA: 2.2KG",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 86.9,
+        "weightUnit": "ca: 2.2kg",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Nötfärs 12% Sverige",
+        "weight": "CA: 2.2KG",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 107,
+        "weightUnit": "ca: 2.2kg",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Bacon Piggham Skivad",
+        "weight": "140G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 15.5,
+        "weightUnit": "140g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Bacon Miniskivat",
+        "weight": "140G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 17.9,
+        "weightUnit": "140g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Grillkorv Tjock",
+        "weight": "800G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 59.9,
+        "weightUnit": "800g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Kyckling Bröstfilé Sverige",
+        "weight": "CA: 900G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 179,
+        "weightUnit": "ca: 900g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Kycklingfilé Tvådelad Sverige",
+        "weight": "CA: 750G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 179,
+        "weightUnit": "ca: 750g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Grillfilè Tvådelad Marinerad Sverige",
+        "weight": "CA: 900G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 185,
+        "weightUnit": "ca: 900g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Kycklingfilé Tunnskivad Sverige",
+        "weight": "CA: 700G",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/hc2/h1d/9821889757214/2307111100000_1580773825162_master_axfood_300",
+        "price": 179,
+        "weightUnit": "ca: 700g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Blandfärs 20% Sverige",
+        "weight": "500G",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/h3a/he7/8919640768542/07340045504228.jpg_1492686733103_master_axfood_300",
+        "price": 49.9,
+        "weightUnit": "500g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Nötfärs 12% Sverige",
+        "weight": "500G",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/h25/h6d/8920154800158/07340045504167.jpg_1492783290472_master_axfood_300",
+        "price": 58.9,
+        "weightUnit": "500g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Blandfärs 20% Sverige",
+        "weight": "CA: 1KG",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/h49/ha4/8919638474782/02355021900005.jpg_1492686702623_master_axfood_300",
+        "price": 88.9,
+        "weightUnit": "ca: 1kg",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Nötfärs 12% Sverige",
+        "weight": "CA: 1KG",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/h0b/hb2/8920152440862/02355022200005.jpg_1492783277380_master_axfood_300",
+        "price": 109,
+        "weightUnit": "ca: 1kg",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Nötfärs 5%",
+        "weight": "500G",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/h73/he9/13516642779166/7340045509933_1666011941645_master_axfood_300",
+        "price": 63.9,
+        "weightUnit": "500g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Fläskfärs 20% Sverige",
+        "weight": "500G",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/h2e/hd2/8919640113182/07340045504129.jpg_1492686728642_master_axfood_300",
+        "price": 36.9,
+        "weightUnit": "500g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Fläskfärs 20% Sverige",
+        "weight": "CA: 1KG",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/h4d/hc0/8919633100830/02355021700001.jpg_1492686354789_master_axfood_300",
+        "price": 71.9,
+        "weightUnit": "ca: 1kg",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Högrevsfärs Sverige",
+        "weight": "500G",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/h04/hb9/8920160796702/07340045506048.jpg_1492784471146_master_axfood_300",
+        "price": 81.9,
+        "weightUnit": "500g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Kalkon Bröstfilé Marinerad",
+        "weight": "CA: 600G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 175,
+        "weightUnit": "ca: 600g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Grillkorv Hög Kötthalt",
+        "weight": "400G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 26.9,
+        "weightUnit": "400g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Ost&amp;bacon Grillkorv",
+        "weight": "300G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 22.9,
+        "weightUnit": "300g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Bratwurst Nürnberger",
+        "weight": "200G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 33.9,
+        "weightUnit": "200g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Kycklingfiléer Tvådelade Frysta",
+        "weight": "700G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 99.9,
+        "weightUnit": "700g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Köttbullar Små Delikatess Frysta",
+        "weight": "600G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 71.9,
+        "weightUnit": "600g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Köttbullar Klassiska Frysta",
+        "weight": "700G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 71.9,
+        "weightUnit": "700g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Varmkorv",
+        "weight": "450G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 29.9,
+        "weightUnit": "450g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Kyckling Överlår",
+        "weight": "1,75KG",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 49.9,
+        "weightUnit": "1,75kg",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Skinka Rökt Skivad",
+        "weight": "100G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 12.9,
+        "weightUnit": "100g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Kyckling Rökt Skivad",
+        "weight": "100G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 12.9,
+        "weightUnit": "100g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Skinka Kokt Skivad",
+        "weight": "100G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 12.9,
+        "weightUnit": "100g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Rostbiff Vinmarinerad Skivad",
+        "weight": "120G",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/h52/hb1/13540664082462/7340083457258_1666617657988_master_axfood_300",
+        "price": 33.9,
+        "weightUnit": "120g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Kalkonbröst Rökt Skivad",
+        "weight": "120G",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/h85/hd4/12030608572446/7340083455919_1630306521170_master_axfood_300",
+        "price": 24.9,
+        "weightUnit": "120g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Chorizo Smal",
+        "weight": "700G",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/h5d/hd6/8855265148958/4250127460416.jpg_master_axfood_300",
+        "price": 84.9,
+        "weightUnit": "700g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Skinka Rökt Strimlad",
+        "weight": "180G",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/hd2/h72/9577941598238/7340083476648_1567717081301_master_axfood_300",
+        "price": 21.9,
+        "weightUnit": "180g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Lammracks Frenched Fryst Nya Zeeland",
+        "weight": "CA: 900G",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/h60/h52/9790746099742/2365602800006_1579524631163_master_axfood_300",
+        "price": 359,
+        "weightUnit": "ca: 900g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Lammytterfilé Fryst Halal Nya Zeeland",
+        "weight": "CA: 500G",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/hdb/h4e/8856983470110/2359730900004.jpg_master_axfood_300",
+        "price": 329,
+        "weightUnit": "ca: 500g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Lamminnerfilé Fryst Benfri Halal Nya Zeeland",
+        "weight": "CA: 500G",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/h0e/h3a/8856792465438/2359728200000.jpg_master_axfood_300",
+        "price": 289,
+        "weightUnit": "ca: 500g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Lammstek med Ben Fryst Halal Nya Zeeland",
+        "weight": "CA: 2.25KG",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/h21/hff/8857334415390/2368571500007.jpg_master_axfood_300",
+        "price": 149,
+        "weightUnit": "ca: 2.25kg",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Grillkorv Naturskinn",
+        "weight": "960G",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/h72/hf5/14194262343710/7310620024922_1681291867203_master_axfood_300",
+        "price": 63.9,
+        "weightUnit": "960g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Köttbullar Sverige",
+        "weight": "1KG",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 55.9,
+        "weightUnit": "1kg",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Wienerkorv",
+        "weight": "900G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 79.9,
+        "weightUnit": "900g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Kassler",
+        "weight": "CA: 1KG",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 105,
+        "weightUnit": "ca: 1kg",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Grillkorv Hots",
+        "weight": "400G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 16.9,
+        "weightUnit": "400g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Tärnat Bacon",
+        "weight": "500G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 39.9,
+        "weightUnit": "500g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Köttbullar Sverige",
+        "weight": "350G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 22.9,
+        "weightUnit": "350g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Köttbullar Delikatess",
+        "weight": "450G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 48.9,
+        "weightUnit": "450g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Prosciutto Crudo Skivad",
+        "weight": "300G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 99.9,
+        "weightUnit": "300g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Antipasto Misto Skivad",
+        "weight": "300G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 89.9,
+        "weightUnit": "300g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Kycklingpanna Stinas Original Fryst",
+        "weight": "1.1KG",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 69.9,
+        "weightUnit": "1.1kg",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Wienerkorv",
+        "weight": "300G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 29.9,
+        "weightUnit": "300g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Kokkorv Original",
+        "weight": "300G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 38.9,
+        "weightUnit": "300g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Prosciutto Crudo Skivad",
+        "weight": "80G",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/hec/h8e/10892467830814/7340083427923_1607855116720_master_axfood_300",
+        "price": 29.9,
+        "weightUnit": "80g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Salame Milano Skivad",
+        "weight": "80G",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/hc7/h48/10892478316574/7340083428845_1607855414390_master_axfood_300",
+        "price": 24.9,
+        "weightUnit": "80g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Salame Ventricina Skivad",
+        "weight": "80G",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/hda/h58/10892460752926/7340083427985_1607854868834_master_axfood_300",
+        "price": 24.9,
+        "weightUnit": "80g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Prosciutto Di Parma Skivad",
+        "weight": "70G",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/hb5/hee/10892468551710/7340083427947_1607855122232_master_axfood_300",
+        "price": 39.9,
+        "weightUnit": "70g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Antipasto Misto Skivad",
+        "weight": "120G",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/hf4/ha3/10892469665822/7340083427954_1607855134634_master_axfood_300",
+        "price": 43.9,
+        "weightUnit": "120g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Crispy Kycklingburgare Fryst",
+        "weight": "440G",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/h69/h97/11417895305246/7300321373009_1616598068783_master_axfood_300",
+        "price": 59.9,
+        "weightUnit": "440g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Nuggets Kyckling Frysta",
+        "weight": "440G",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/h3a/hf9/12016286859294/7300321372002_1629895821376_master_axfood_300",
+        "price": 59.9,
+        "weightUnit": "440g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Kyckling Sallads Grillad Frysta",
+        "weight": "600G",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/he5/h4e/12114409685022/7300321216009_1632745248239_master_axfood_300",
+        "price": 99.9,
+        "weightUnit": "600g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Kycklingpinnar",
+        "weight": "400G",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/h00/hfe/8862453563422/07300323182005.jpg_master_axfood_300",
+        "price": 43.9,
+        "weightUnit": "400g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Delifresh Kycklingburgare Frysta",
+        "weight": "400G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 59.9,
+        "weightUnit": "400g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Rökt Skinka Tunna Skivor",
+        "weight": "200G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 23.9,
+        "weightUnit": "200g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Kokt Skinka Tunna Skivor",
+        "weight": "200G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 23.9,
+        "weightUnit": "200g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Rökt Kyckling Tunna Skivor",
+        "weight": "200G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 39.9,
+        "weightUnit": "200g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Lammstek Skivad Fryst Nya Zeeland",
+        "weight": "CA: 2.2KG",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 129,
+        "weightUnit": "ca: 2.2kg",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Kycklingben Marinerade Sverige",
+        "weight": "CA: 1.8KG",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 64.9,
+        "weightUnit": "ca: 1.8kg",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Kassler Vinmarinerad",
+        "weight": "CA: 600G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 89.9,
+        "weightUnit": "ca: 600g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Hot Dog Pölser Röda",
+        "weight": "375G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 45.9,
+        "weightUnit": "375g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Kalkon Rökt Tunna Skivor",
+        "weight": "200G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 33.9,
+        "weightUnit": "200g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Gourmetskinka Rökt Skivad",
+        "weight": "200G",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/hf2/h00/12720925900830/7330797088794_1646296834800_master_axfood_300",
+        "price": 28.9,
+        "weightUnit": "200g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Gourmetskinka Kokt Skivad",
+        "weight": "200G",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/h44/hd7/12720923869214/7330797088800_1646295635867_master_axfood_300",
+        "price": 28.9,
+        "weightUnit": "200g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Medwurst Cognac Skivad",
+        "weight": "200G",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/h35/h51/12720926228510/7330797088855_1646296836886_master_axfood_300",
+        "price": 21.5,
+        "weightUnit": "200g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Gourmetskinka Basturökt Skivad",
+        "weight": "150G",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/hdf/hba/12720927211550/7330797088886_1646297250057_master_axfood_300",
+        "price": 33.9,
+        "weightUnit": "150g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Rökt Salami Tunna Skivor",
+        "weight": "200G",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/h54/h66/12720926883870/7330797088893_1646296841072_master_axfood_300",
+        "price": 28.9,
+        "weightUnit": "200g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Chorizo Skivad",
+        "weight": "160G",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/h48/hc8/12594074288158/7330797088961_1643636485525_master_axfood_300",
+        "price": 36.9,
+        "weightUnit": "160g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Medwurst Hushåll Tunna Skivor",
+        "weight": "200G",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/hc4/h5b/12720926556190/7330797088879_1646296838909_master_axfood_300",
+        "price": 21.5,
+        "weightUnit": "200g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Medwurst Kokt Skivad",
+        "weight": "200G",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/h09/h85/12720924196894/7330797088916_1646295637922_master_axfood_300",
+        "price": 21.5,
+        "weightUnit": "200g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Minikalkon Fryst",
+        "weight": "CA: 4.1KG",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/h95/h9b/8870178848798/02385810100002.jpg_1471727136191_master_axfood_300",
+        "price": 71.9,
+        "weightUnit": "ca: 4.1kg",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Kycklinglever Sverige",
+        "weight": "450G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 26.9,
+        "weightUnit": "450g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Kycklinghjärta Sverige",
+        "weight": "450G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 26.9,
+        "weightUnit": "450g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Kycklingsteak",
+        "weight": "CA: 900G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 99.9,
+        "weightUnit": "ca: 900g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Kycklingmage Sverige",
+        "weight": "450G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 26.9,
+        "weightUnit": "450g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Minutstrimlor Svensk",
+        "weight": "CA: 550G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 155,
+        "weightUnit": "ca: 550g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Kycklingsteak Amarikan Bbq",
+        "weight": "CA: 850G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 115,
+        "weightUnit": "ca: 850g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Minutfilé Sverige",
+        "weight": "CA: 670G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 149,
+        "weightUnit": "ca: 670g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Fårfärs Fryst Nya Zeeland Irland",
+        "weight": "750G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 89.9,
+        "weightUnit": "750g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Leverpastej Original Bredbar",
+        "weight": "200G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 11.9,
+        "weightUnit": "200g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Leverpastej Gurka Bredbar",
+        "weight": "200G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 11.9,
+        "weightUnit": "200g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Ryggbiff Nötkött",
+        "weight": "CA: 1KG",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 179,
+        "weightUnit": "ca: 1kg",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Entrecoté Nötkött",
+        "weight": "CA: 1KG",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 229,
+        "weightUnit": "ca: 1kg",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Stekfläsk Rimmat Skivat",
+        "weight": "CA: 950G",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/h1e/h77/9598657069086/2359761600003_1569077466875_master_axfood_300",
+        "price": 92.9,
+        "weightUnit": "ca: 950g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Fransyska Nötkött",
+        "weight": "CA: 1.2KG",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/h84/hc1/11353200427038/2359765400005_1615541116965_master_axfood_300",
+        "price": 115,
+        "weightUnit": "ca: 1.2kg",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Högrev Nötkött",
+        "weight": "CA: 1.2KG",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/h81/h46/11353214582814/2359765300008_1615541421329_master_axfood_300",
+        "price": 115,
+        "weightUnit": "ca: 1.2kg",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Picanha Irland",
+        "weight": "CA: 1.6KG",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/h6f/hf6/8909698269214/02359752100000.jpg_1489679458761_master_axfood_300",
+        "price": 159,
+        "weightUnit": "ca: 1.6kg",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Rökt Kalkon",
+        "weight": "200G",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/h19/hda/11887468347422/7340083490545_1625690467125_master_axfood_300",
+        "price": 29.9,
+        "weightUnit": "200g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Nötfärs Fryst Import",
+        "weight": "750G",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/h39/hd7/8854525181982/07330989000962.jpg_master_axfood_300",
+        "price": 76.9,
+        "weightUnit": "750g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Hamburgare 16x90g Frysta",
+        "weight": "1.440KG",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/hc5/h65/9077579874334/07340083460869.jpg_1519681543964_master_axfood_300",
+        "price": 119,
+        "weightUnit": "1.440kg",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Basturökt Skinka Skivad",
+        "weight": "120G",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/h65/h40/12913388290078/7311041071748_1650953817252_master_axfood_300",
+        "price": 19.9,
+        "weightUnit": "120g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Pepparsalami Skivad",
+        "weight": "80G",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/h99/h33/12913388617758/7311041072899_1650953820624_master_axfood_300",
+        "price": 19.9,
+        "weightUnit": "80g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Vitlökssalami Skivad",
+        "weight": "80G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 19.9,
+        "weightUnit": "80g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Kyckling Grillad Skivad",
+        "weight": "100G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 19.9,
+        "weightUnit": "100g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Kokt Skinka",
+        "weight": "120G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 19.9,
+        "weightUnit": "120g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Salami Milano Skivad",
+        "weight": "80G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 19.9,
+        "weightUnit": "80g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Skinka Extrarökt",
+        "weight": "120G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 19.9,
+        "weightUnit": "120g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Flatrökt Skinka",
+        "weight": "120G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 19.9,
+        "weightUnit": "120g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Salami Chipotle",
+        "weight": "80G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 19.9,
+        "weightUnit": "80g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Kyckling Rökt",
+        "weight": "100G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 19.9,
+        "weightUnit": "100g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Cognacs Medwurst",
+        "weight": "120G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 19.9,
+        "weightUnit": "120g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Rostbiff Plånbok",
+        "weight": "100G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 29.9,
+        "weightUnit": "100g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Alspånsrökt Bog",
+        "weight": "120G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 19.9,
+        "weightUnit": "120g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Kotlettpastram",
+        "weight": "100G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 19.9,
+        "weightUnit": "100g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Prosciutto Crudo Skivad",
+        "weight": "80G",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/h09/h29/12913388945438/7340083468513_1650953822643_master_axfood_300",
+        "price": 26.9,
+        "weightUnit": "80g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Kokt Saltrulle",
+        "weight": "100G",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/hbf/ha7/12913387307038/7340083492181_1650953201147_master_axfood_300",
+        "price": 19.9,
+        "weightUnit": "100g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Bröstfile Basturökt Hönskött Skivad",
+        "weight": "110G",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/hc0/ha7/12580495294494/7313940095511_1643360722670_master_axfood_300",
+        "price": 21.9,
+        "weightUnit": "110g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Hönsbröstfile Pastramikryddad Skivad",
+        "weight": "110G",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/hf7/h96/12668258811934/7313940095528_1645109144243_master_axfood_300",
+        "price": 23.9,
+        "weightUnit": "110g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Bacon Naturell Tärnat",
+        "weight": "140G",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/h47/h61/10832207740958/7300205753002_1606895165756_master_axfood_300",
+        "price": 17.9,
+        "weightUnit": "140g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Nötytterfilé Nötkött",
+        "weight": "CA: 1KG",
+        "imageUrl": "",
+        "price": 195,
+        "weightUnit": "ca: 1kg",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Stekfläsk Rimmat Skivat",
+        "weight": "375G",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/hf5/hb9/8907794284574/07340083456046.jpg_1489136721359_master_axfood_300",
+        "price": 34.9,
+        "weightUnit": "375g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Pancetta",
+        "weight": "200G",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/h17/h51/11900743286814/7340083487323_1626173728479_master_axfood_300",
+        "price": 59.9,
+        "weightUnit": "200g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Kycklingkebab",
+        "weight": "350G",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/h03/h4c/9717590589470/7393287772245_1575841625064_master_axfood_300",
+        "price": 51.9,
+        "weightUnit": "350g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Kebab Gyros",
+        "weight": "350G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 51.9,
+        "weightUnit": "350g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Flankstek Irland",
+        "weight": "CA: 600G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 159,
+        "weightUnit": "ca: 600g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Tomahawk Nötkött",
+        "weight": "CA: 1.05KG",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 299,
+        "weightUnit": "ca: 1.05kg",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Husmorspastej Grädd",
+        "weight": "200G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 14.9,
+        "weightUnit": "200g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Mini-burgare Fryst",
+        "weight": "15STX50G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 63.9,
+        "weightUnit": "15stx50g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Färsbiff Färdigstekt Kyckling &amp; Nötkött",
+        "weight": "800G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 64.9,
+        "weightUnit": "800g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Fläskfilé Fryst Danmark",
+        "weight": "CA: 650G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 105,
+        "weightUnit": "ca: 650g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Lammstek Benfri Nya Zeeland",
+        "weight": "CA: 1.5KG",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 189,
+        "weightUnit": "ca: 1.5kg",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Hamburgare Ostekta Frysta",
+        "weight": "6X90G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 54.9,
+        "weightUnit": "6x90g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Hamburgare med Högrevsfärs Frysta",
+        "weight": "4P/150G",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/h5a/h09/10832222945310/7300298911006_1606895264961_master_axfood_300",
+        "price": 84.9,
+        "weightUnit": "4p/150g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Hamburgare Ostekta Frysta",
+        "weight": "4X130G",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/h4a/hdd/10832220913694/7300298920008_1606895250934_master_axfood_300",
+        "price": 54.9,
+        "weightUnit": "4x130g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Falukorv",
+        "weight": "600G",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/hde/h42/10527921078302/7340083483769_1600675560290_master_axfood_300",
+        "price": 22.9,
+        "weightUnit": "600g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Chorizo",
+        "weight": "300G",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/hb7/h90/12064060538910/7300208373009_1631106935581_master_axfood_300",
+        "price": 32.9,
+        "weightUnit": "300g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Chorizo Red Hot",
+        "weight": "300G",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/h28/hea/10832220586014/7300208381004_1606895247682_master_axfood_300",
+        "price": 32.9,
+        "weightUnit": "300g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Bratwurst",
+        "weight": "300G",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/h06/hdd/10832217309214/7300206706007_1606895225851_master_axfood_300",
+        "price": 32.9,
+        "weightUnit": "300g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Chorizo De Pimenton",
+        "weight": "240G",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/hb7/hc8/10832238673950/7300200247001_1606895384148_master_axfood_300",
+        "price": 32.9,
+        "weightUnit": "240g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Kolbasz",
+        "weight": "300G",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/hce/hc4/10832208592926/7300206295006_1606895173550_master_axfood_300",
+        "price": 32.9,
+        "weightUnit": "300g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Fuetec Iberico",
+        "weight": "150G",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/h34/hec/8960827392030/08410843105152.jpg_1503386482705_master_axfood_300",
+        "price": 49.9,
+        "weightUnit": "150g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Varmkorv",
+        "weight": "900G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 58.9,
+        "weightUnit": "900g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Kalkonbröst Extrarökt",
+        "weight": "110G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 31.9,
+        "weightUnit": "110g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Lammrostbiff Utan Kappa Nya Zeeland",
+        "weight": "CA: 880G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 279,
+        "weightUnit": "ca: 880g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Kycklinglever",
+        "weight": "500G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 19.9,
+        "weightUnit": "500g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Kycklinghjärta",
+        "weight": "500G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 19.9,
+        "weightUnit": "500g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Kycklingmage",
+        "weight": "500G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 19.9,
+        "weightUnit": "500g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Kyckling Lårfilé Halal Import",
+        "weight": "500G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 44.9,
+        "weightUnit": "500g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Kycklingvingar Import",
+        "weight": "600G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 34.9,
+        "weightUnit": "600g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Kycklingbröst Filé Import",
+        "weight": "400G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 44.9,
+        "weightUnit": "400g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Kyckling Innerfilé Import",
+        "weight": "450G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 44.9,
+        "weightUnit": "450g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Kycklingben Import",
+        "weight": "550G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 34.9,
+        "weightUnit": "550g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Kycklingklubba Import",
+        "weight": "650G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 34.9,
+        "weightUnit": "650g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Chorizo",
+        "weight": "300G",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/h83/hf9/9422196441118/7340083474316_1554202841699_master_axfood_300",
+        "price": 28.9,
+        "weightUnit": "300g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Kabanoss Smal",
+        "weight": "240G",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/h00/hc3/9422201421854/7340083474576_1554202910359_master_axfood_300",
+        "price": 28.9,
+        "weightUnit": "240g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Kabanoss",
+        "weight": "300G",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/hf3/h53/10244526669854/7340083479410_1592919968565_master_axfood_300",
+        "price": 28.9,
+        "weightUnit": "300g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Chorizo Jalapeño Smal",
+        "weight": "240G",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/h77/h19/11240526643230/7340083487132_1613725871945_master_axfood_300",
+        "price": 28.9,
+        "weightUnit": "240g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Bratwurst",
+        "weight": "300G",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/h00/hfc/9422196768798/7340083474323_1554202853052_master_axfood_300",
+        "price": 28.9,
+        "weightUnit": "300g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Chorizo Bbq Mild",
+        "weight": "300G",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/hfb/h3a/9642011918366/7340083404580_1571838630964_master_axfood_300",
+        "price": 44.9,
+        "weightUnit": "300g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Tryffelkorv",
+        "weight": "270G",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/h8b/h77/14162248007710/7311043001255_1680507933044_master_axfood_300",
+        "price": 28.9,
+        "weightUnit": "270g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Scorpion Chili Trinidad Kryddkorv",
+        "weight": "300G",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/hc9/h4b/9422200045598/7340083474347_1554202898834_master_axfood_300",
+        "price": 28.9,
+        "weightUnit": "300g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Chorizo Bbq Hot",
+        "weight": "300G",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/h50/h1a/9642012311582/7340083404597_1571838632708_master_axfood_300",
+        "price": 44.9,
+        "weightUnit": "300g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Grillkorv med Skinn",
+        "weight": "640G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 45.9,
+        "weightUnit": "640g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Grillkorv Bacon &amp; Ost",
+        "weight": "480G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 40.9,
+        "weightUnit": "480g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Hot Dogs",
+        "weight": "500G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 25.9,
+        "weightUnit": "500g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Grillkorv Deli",
+        "weight": "400G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 41.9,
+        "weightUnit": "400g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Entrecotekorv Chimichurri",
+        "weight": "180G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 31.9,
+        "weightUnit": "180g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Merguez Lammkorv",
+        "weight": "200G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 32.9,
+        "weightUnit": "200g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Kyckling Hel",
+        "weight": "CA: 1.5KG",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 99.9,
+        "weightUnit": "ca: 1.5kg",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Kyckling Bröstfilé 2-pack",
+        "weight": "CA: 430G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 239,
+        "weightUnit": "ca: 430g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Kyckling Ben",
+        "weight": "CA: 850G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 72.9,
+        "weightUnit": "ca: 850g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Kyckling Lårfilé 4-pack",
+        "weight": "CA: 400G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 179,
+        "weightUnit": "ca: 400g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Bacon Skivat",
+        "weight": "375G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 37.9,
+        "weightUnit": "375g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Kycklingkorv Original Fryst",
+        "weight": "340G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 12.9,
+        "weightUnit": "340g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Kycklingkorv Hot &amp; Spicy Fryst",
+        "weight": "340G",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/hb2/h51/12616368324638/7340083492303_1643987726900_master_axfood_300",
+        "price": 12.9,
+        "weightUnit": "340g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Prinskorv med Tunt Skinn",
+        "weight": "600G",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/h06/h06/10832219406366/7300207276004_1606895238316_master_axfood_300",
+        "price": 47.9,
+        "weightUnit": "600g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Kalkonkorv Kung Ingels",
+        "weight": "500G",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/hf2/h0f/11475476512798/7331044008602_1617691233511_master_axfood_300",
+        "price": 52.9,
+        "weightUnit": "500g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Spareribs",
+        "weight": "500G",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/hbb/ha0/12181786066974/5707196263602_1634202379974_master_axfood_300",
+        "price": 75.9,
+        "weightUnit": "500g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Mortadella Kyckling Paprika Skivad",
+        "weight": "200G",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/h39/h4e/8854220701726/04018342195274.jpg_master_axfood_300",
+        "price": 14.9,
+        "weightUnit": "200g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Macar Salami Kalkon Skivad",
+        "weight": "200G",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/h25/h02/9647458222110/4018342155018_1572255675924_master_axfood_300",
+        "price": 29.9,
+        "weightUnit": "200g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Baharatli Dili Kalkon Mortadella Skivad",
+        "weight": "200G",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/hb2/h7c/9647460384798/4018342195281_1572255708794_master_axfood_300",
+        "price": 12.9,
+        "weightUnit": "200g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Tavuk Dilim Kyckling Mortadella Skivad",
+        "weight": "200G",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/h41/h87/9647460057118/4018342195267_1572255702928_master_axfood_300",
+        "price": 14.9,
+        "weightUnit": "200g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Sade Dilim Kalkon Mortadella Skivad",
+        "weight": "200G",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/hbd/h78/9647459729438/4018342195250_1572255696456_master_axfood_300",
+        "price": 14.9,
+        "weightUnit": "200g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Skinka Lufttorkad",
+        "weight": "300G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 52.9,
+        "weightUnit": "300g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Rökt Skinka Strimlad",
+        "weight": "450G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 52.9,
+        "weightUnit": "450g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Fläskkarré med Ben Grillkryddad Sverige",
+        "weight": "CA: 1.5KG",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 105,
+        "weightUnit": "ca: 1.5kg",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Fläskkarré med Ben Skivad Sverige",
+        "weight": "CA: 1.5KG",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 109,
+        "weightUnit": "ca: 1.5kg",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Fläskkotlett med Ben Skivad Sverige",
+        "weight": "CA: 1.7KG",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 92.9,
+        "weightUnit": "ca: 1.7kg",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Fläskytterfilé Mörad Grillkryddad Danmark",
+        "weight": "CA: 1KG",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 105,
+        "weightUnit": "ca: 1kg",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Kalkon Strimlad",
+        "weight": "350G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 50.9,
+        "weightUnit": "350g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Kokt Skinka Strimlad",
+        "weight": "450G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 52.9,
+        "weightUnit": "450g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Leverpastej Bakad",
+        "weight": "500G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 29.9,
+        "weightUnit": "500g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Spareribs",
+        "weight": "CA: 1.25KG",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/hf1/hb7/13330369806366/2359768700003_1661850971533_master_axfood_300",
+        "price": 79.9,
+        "weightUnit": "ca: 1.25kg",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Grillskiva Bbq av Picnicbog Sverige",
+        "weight": "CA: 700G",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/h91/h6e/9943301292062/2355026100004_1585328470023_master_axfood_300",
+        "price": 97.9,
+        "weightUnit": "ca: 700g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Fläskkarré Benfri Skivad Sverige",
+        "weight": "CA: 500G",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/h2c/h84/8916913946654/02355000100006.jpg_1491834906867_master_axfood_300",
+        "price": 125,
+        "weightUnit": "ca: 500g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Kamben Fläskkött",
+        "weight": "CA: 900G",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/he5/h77/11483589345310/2359764100005_1617807060499_master_axfood_300",
+        "price": 105,
+        "weightUnit": "ca: 900g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Fläskkotlett Benfri Skivad Sverige",
+        "weight": "CA: 450G",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/h31/h1e/8919635460126/02355011300006.jpg_1492686664607_master_axfood_300",
+        "price": 119,
+        "weightUnit": "ca: 450g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Grillspett Fläsk",
+        "weight": "380G",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/h2f/h8b/9945757515806/7340045510854_1585413662523_master_axfood_300",
+        "price": 41.9,
+        "weightUnit": "380g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Fläskkarré Benfri i Bit Sverige",
+        "weight": "CA: 1.1KG",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/h22/h45/8917737308190/02355009600002.jpg_1492009220113_master_axfood_300",
+        "price": 99.9,
+        "weightUnit": "ca: 1.1kg",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Fläskkarré med Ben Skivad Sverige",
+        "weight": "CA: 500G",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/h69/h5a/8916724678686/02355005500009.jpg_1491814872277_master_axfood_300",
+        "price": 119,
+        "weightUnit": "ca: 500g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Fläskkotlett Lövskuren Sverige",
+        "weight": "CA: 470G",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/had/h28/8919635787806/02355011700004.jpg_1492686666566_master_axfood_300",
+        "price": 129,
+        "weightUnit": "ca: 470g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Sidfläsk Bit Vakuum",
+        "weight": "CA: 750G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 99.9,
+        "weightUnit": "ca: 750g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Sidfläsk Skivad Vakuum",
+        "weight": "CA: 500G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 105,
+        "weightUnit": "ca: 500g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Skinkschnitzel Sverige",
+        "weight": "CA: 300G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 119,
+        "weightUnit": "ca: 300g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Kyckling Grillad Skivad 5mm Fryst",
+        "weight": "450G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 69.9,
+        "weightUnit": "450g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Kycklingfilé Grillad Tärnad 12mm Fryst",
+        "weight": "450G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 69.9,
+        "weightUnit": "450g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Wienerkorv",
+        "weight": "750G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 64.9,
+        "weightUnit": "750g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Rökt Skinka Ojämna Skivor",
+        "weight": "CA: 200G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 77.9,
+        "weightUnit": "ca: 200g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Kokt Skinka Ojämna Skivor",
+        "weight": "CA: 200G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 77.9,
+        "weightUnit": "ca: 200g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Grillkorv Kalkon &amp; Kyckling",
+        "weight": "350G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 25.9,
+        "weightUnit": "350g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Hamburgare 4-pack Sverige",
+        "weight": "452G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 49.9,
+        "weightUnit": "452g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Hamburgare Tex Mex",
+        "weight": "452G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 49.9,
+        "weightUnit": "452g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Hot Burger 4-pack",
+        "weight": "452G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 49.9,
+        "weightUnit": "452g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Burgare av Högrev Sverige",
+        "weight": "300G",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/h7c/h7c/14133782577182/7340045507663_1679902235025_master_axfood_300",
+        "price": 49.9,
+        "weightUnit": "300g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Salami Turist",
+        "weight": "400G",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/h61/hff/12431616835614/5998003186690_1640295649744_master_axfood_300",
+        "price": 109,
+        "weightUnit": "400g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Kolbasz Djävulskorv Bit",
+        "weight": "250G",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/hd8/h63/8855222419486/5998339704483.jpg_master_axfood_300",
+        "price": 57.9,
+        "weightUnit": "250g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Ölkorv Vitlök",
+        "weight": "3X40G",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/h69/h53/13680663592990/7340083457203_1669816521578_master_axfood_300",
+        "price": 26.9,
+        "weightUnit": "3x40g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Ölkorv Original",
+        "weight": "120G",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/hf8/h05/13931451449374/7340083457166_1675260639601_master_axfood_300",
+        "price": 26.9,
+        "weightUnit": "120g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Ölkorv Chili",
+        "weight": "3X40G",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/h80/hcb/13820546056222/7340083457180_1672918842272_master_axfood_300",
+        "price": 26.9,
+        "weightUnit": "3x40g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Pepparsalami Skivad",
+        "weight": "150G",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/h9d/ha7/13162804019230/5701251862540_1657179644899_master_axfood_300",
+        "price": 26.5,
+        "weightUnit": "150g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Dansk Salami Klassisk Skivad",
+        "weight": "150G",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/h25/h53/13162803691550/5701251858543_1657179642805_master_axfood_300",
+        "price": 26.5,
+        "weightUnit": "150g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Vitlökssalami Skivad",
+        "weight": "150G",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/h00/h21/13162802380830/5701251854545_1657179344406_master_axfood_300",
+        "price": 26.5,
+        "weightUnit": "150g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Dansk Salami Skivad",
+        "weight": "250G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 35.9,
+        "weightUnit": "250g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Pepperonisalam",
+        "weight": "150G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 26.5,
+        "weightUnit": "150g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Chorizosalami Skivad",
+        "weight": "150G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 26.5,
+        "weightUnit": "150g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Pepparsalami Skivad",
+        "weight": "200G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 37.9,
+        "weightUnit": "200g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Stekfläsk Rimmat Skivat",
+        "weight": "375G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 44.9,
+        "weightUnit": "375g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Falukorv Delikatess",
+        "weight": "550G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 31.5,
+        "weightUnit": "550g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Falukorv",
+        "weight": "800G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 32.5,
+        "weightUnit": "800g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Bacon Skivat",
+        "weight": "3X140G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 39.9,
+        "weightUnit": "3x140g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Kalkonbacon Skivad",
+        "weight": "110G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 16.5,
+        "weightUnit": "110g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Bacon Skivad",
+        "weight": "125G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 16.9,
+        "weightUnit": "125g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Bacon Skivad",
+        "weight": "CA: 950G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 94.9,
+        "weightUnit": "ca: 950g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Pancetta Tärnat Lufttorkat",
+        "weight": "2X75G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 29.9,
+        "weightUnit": "2x75g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Lammhultssylta med Kalvkött",
+        "weight": "350G ASK",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/h37/h1e/9264067248158/7316260001651_1540537337895_master_axfood_300",
+        "price": 24.9,
+        "weightUnit": "350g ask",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Ölkorv Het Chili",
+        "weight": "3X40G",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/hf3/h2f/13595993243678/7340083484186_1667918159425_master_axfood_300",
+        "price": 26.9,
+        "weightUnit": "3x40g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Ölkorv Vitlök",
+        "weight": "40G",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/hf8/h5d/13680663265310/7340083457197_1669816519087_master_axfood_300",
+        "price": 9.9,
+        "weightUnit": "40g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Ölkorv Original",
+        "weight": "40G",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/h75/h10/13931451121694/7340083457159_1675260636973_master_axfood_300",
+        "price": 9.9,
+        "weightUnit": "40g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Ölkorv Chili",
+        "weight": "40G",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/h35/h6c/13829662572574/7340083457173_1673263207394_master_axfood_300",
+        "price": 9.9,
+        "weightUnit": "40g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Ölkorv Het Chili",
+        "weight": "40G",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/h47/h22/13595992915998/7340083484179_1667918157721_master_axfood_300",
+        "price": 9.9,
+        "weightUnit": "40g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Salami Chips Classic",
+        "weight": "80G",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/h35/hbc/12154573226014/5707196176063_1633610752589_master_axfood_300",
+        "price": 21.5,
+        "weightUnit": "80g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Salami Sticks",
+        "weight": "80G",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/h3f/hef/12154572898334/5707196175974_1633610748735_master_axfood_300",
+        "price": 21.5,
+        "weightUnit": "80g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Salami Snacks Classic",
+        "weight": "80G",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/ha6/hb1/12154573553694/5707196231205_1633610762982_master_axfood_300",
+        "price": 21.5,
+        "weightUnit": "80g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Snack Strings Classic",
+        "weight": "90G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 21.9,
+        "weightUnit": "90g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Salami Snacks Vitlök",
+        "weight": "80G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 21.5,
+        "weightUnit": "80g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Snack Strings Beef",
+        "weight": "90G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 21.9,
+        "weightUnit": "90g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Snack Strings Spicy",
+        "weight": "90G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 21.9,
+        "weightUnit": "90g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Lördagskorv Skivad",
+        "weight": "225G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 19.9,
+        "weightUnit": "225g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Gotler Skivad",
+        "weight": "200G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 19.9,
+        "weightUnit": "200g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Jaktkorv Skivad",
+        "weight": "250G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 19.9,
+        "weightUnit": "250g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Bacon Skivad 3-pack",
+        "weight": "360G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 26.9,
+        "weightUnit": "360g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Kycklingspett Grillade Fryst",
+        "weight": "1.5KG",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 229,
+        "weightUnit": "1.5kg",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Drumsticks Chicken Bbq Fryst",
+        "weight": "2KG",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/h15/h26/9559060742174/7313940017063_1566475621021_master_axfood_300",
+        "price": 145,
+        "weightUnit": "2kg",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Buffalo Wings Frysta",
+        "weight": "2KG",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/h2a/h93/9559486660638/7313940025969_1566495985312_master_axfood_300",
+        "price": 145,
+        "weightUnit": "2kg",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Leverpastej Bredbar",
+        "weight": "200G",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/h0c/h32/8855501275166/07350036892425.jpg_master_axfood_300",
+        "price": 9.9,
+        "weightUnit": "200g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Bacon Skivad",
+        "weight": "120G",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/hf2/h9d/8871545176094/07340083427466.jpg_1472676367976_master_axfood_300",
+        "price": 8.9,
+        "weightUnit": "120g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Köttkorv Kokt",
+        "weight": "300G",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/h32/h2c/12559716909086/7340052547850_1643040686637_master_axfood_300",
+        "price": 23.9,
+        "weightUnit": "300g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Fläskkorv Kokt",
+        "weight": "300G",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/h67/h37/12559717761054/7340052547454_1643040980630_master_axfood_300",
+        "price": 23.9,
+        "weightUnit": "300g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Leverpastej Ugnsbakad Bredbar",
+        "weight": "200G",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/h55/h46/9582612906014/7300206303008_1568058354176_master_axfood_300",
+        "price": 14.5,
+        "weightUnit": "200g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Ugnsbakad Gräddleverpastej",
+        "weight": "200G",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/h81/h84/11899448426526/7300201481008_1568062310133_master_axfood_300",
+        "price": 16.9,
+        "weightUnit": "200g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Leverpastej Svensk Bredbar",
+        "weight": "200G",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/hf2/h76/12684419465246/7300207084005_1645516269396_master_axfood_300",
+        "price": 14.5,
+        "weightUnit": "200g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Leverpastej Ugnsbakad Ekologisk",
+        "weight": "200G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 19.5,
+        "weightUnit": "200g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Sidfläsk med Svål Rökt Bit",
+        "weight": "CA: 400G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 99,
+        "weightUnit": "ca: 400g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Picnicbog Rökt Bit",
+        "weight": "CA: 600G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 86.9,
+        "weightUnit": "ca: 600g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Schwarzwald Skinka",
+        "weight": "100G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 24.9,
+        "weightUnit": "100g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Schwarzwald Skinka",
+        "weight": "400G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 79.9,
+        "weightUnit": "400g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Köttbullar Deli",
+        "weight": "450G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 58.9,
+        "weightUnit": "450g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Köttbullar Mammas",
+        "weight": "350G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 27.5,
+        "weightUnit": "350g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Serrano 11 Mån Skivad",
+        "weight": "300G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 89.9,
+        "weightUnit": "300g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Bror Jakobs Rökta Skinka Skivad",
+        "weight": "120G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 29.9,
+        "weightUnit": "120g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Mor Matildas Kokta Skinka Skivad",
+        "weight": "120G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 29.9,
+        "weightUnit": "120g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Skinka Gallerrökt Skivad",
+        "weight": "120G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 29.9,
+        "weightUnit": "120g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Rostbiff Grillade Skivad",
+        "weight": "90G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 29.9,
+        "weightUnit": "90g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Pepparkubb Skinka Skivad",
+        "weight": "120G",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/hf5/hc6/8894381654046/07391196007564.jpg_1485185465385_master_axfood_300",
+        "price": 28.9,
+        "weightUnit": "120g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Rökt Bog Skivad",
+        "weight": "120G",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/hdb/hc6/8894345936926/07391196007502.jpg_1485183936327_master_axfood_300",
+        "price": 28.9,
+        "weightUnit": "120g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Kalvkorv Skivad",
+        "weight": "120G",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/h91/h16/8894363107358/07391196007250.jpg_1485184848176_master_axfood_300",
+        "price": 23.9,
+        "weightUnit": "120g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Rökt Nötrulle Skivad",
+        "weight": "100G",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/hf6/h08/8894376149022/07391196007861.jpg_1485185131167_master_axfood_300",
+        "price": 28.9,
+        "weightUnit": "100g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Kycklingfile Charkuteriets Rökt Skivad",
+        "weight": "100G",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/h6b/hb2/10262684074014/7391196007892_1593425133495_master_axfood_300",
+        "price": 29.9,
+        "weightUnit": "100g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Pulled Pork Sverige",
+        "weight": "550G",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/h81/h51/12992307855390/7340083437564_1652856662342_master_axfood_300",
+        "price": 54.9,
+        "weightUnit": "550g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Ribs Sverige",
+        "weight": "445G",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/h63/h8b/8894860722206/07340083451652.jpg_1485273620712_master_axfood_300",
+        "price": 55.9,
+        "weightUnit": "445g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Pulled Beef Sverige",
+        "weight": "450G",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/hbd/ha3/12992308183070/7340083437571_1652856664980_master_axfood_300",
+        "price": 79.9,
+        "weightUnit": "450g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Pulled Chicken",
+        "weight": "450G",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/h70/hc5/12774729842718/7340083492082_1647444920837_master_axfood_300",
+        "price": 69.9,
+        "weightUnit": "450g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Grillad Kyckling Delikatess",
+        "weight": "120G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 28.9,
+        "weightUnit": "120g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Rökt Delikatesskinka",
+        "weight": "140G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 28.9,
+        "weightUnit": "140g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Pepparmantlad Delikatesskinka",
+        "weight": "120G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 28.9,
+        "weightUnit": "120g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Bacon Skivad",
+        "weight": "140G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 14.9,
+        "weightUnit": "140g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Bacon Rulle Skivad",
+        "weight": "CA: 1.2KG",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 119,
+        "weightUnit": "ca: 1.2kg",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Tapas Selection",
+        "weight": "120G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 44.9,
+        "weightUnit": "120g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Chorizo Skivad",
+        "weight": "100G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 24.9,
+        "weightUnit": "100g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Serrano 11 Mån Skivad",
+        "weight": "100G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 29.9,
+        "weightUnit": "100g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Lomo Skivad",
+        "weight": "80G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 24.9,
+        "weightUnit": "80g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Sylta Lammhults",
+        "weight": "200G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 14.9,
+        "weightUnit": "200g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Onsalakorv Bit",
+        "weight": "300G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 34.9,
+        "weightUnit": "300g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Bacon Skivat",
+        "weight": "120G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 22.9,
+        "weightUnit": "120g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Salsiccia Naturell",
+        "weight": "300G",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/h9e/hdf/12816707158046/7340012503216_1648472755167_master_axfood_300",
+        "price": 44.9,
+        "weightUnit": "300g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Salsiccia Fänkål",
+        "weight": "300G",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/ha9/hc3/12816706502686/7340012503193_1648472748298_master_axfood_300",
+        "price": 44.9,
+        "weightUnit": "300g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Salsiccia Piri Piri",
+        "weight": "300G",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/h39/hce/12816706830366/7340012503209_1648472752705_master_axfood_300",
+        "price": 44.9,
+        "weightUnit": "300g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Norrbodakorv Original",
+        "weight": "120G",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/hf8/h6f/12990782898206/7312338005170_1652796370392_master_axfood_300",
+        "price": 19.9,
+        "weightUnit": "120g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Rökt Kalkon Skivad",
+        "weight": "400G",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/h29/h6d/8857188663326/07340083433139.jpg_master_axfood_300",
+        "price": 42.9,
+        "weightUnit": "400g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Rökt Skinka Skivad",
+        "weight": "400G",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/hc9/h5b/8857188139038/07340083433115.jpg_master_axfood_300",
+        "price": 34.9,
+        "weightUnit": "400g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Hushållswurst Skivad",
+        "weight": "400G",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/hbd/h7e/11686640287774/7340083433443_1621324249994_master_axfood_300",
+        "price": 29.9,
+        "weightUnit": "400g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Salami Skivad",
+        "weight": "400G",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/h33/h76/8857246859294/07340083433450.jpg_master_axfood_300",
+        "price": 38.9,
+        "weightUnit": "400g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Cognacswurst Skivad",
+        "weight": "400G",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/h1b/h93/11686640877598/7340083433467_1621324252499_master_axfood_300",
+        "price": 29.9,
+        "weightUnit": "400g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Kokt Skinka Skivad",
+        "weight": "400G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 34.9,
+        "weightUnit": "400g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Rökt Kalkon Skivad",
+        "weight": "850G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 89.9,
+        "weightUnit": "850g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Guldsalami",
+        "weight": "100G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 21.9,
+        "weightUnit": "100g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Lammsalami",
+        "weight": "80G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 21.9,
+        "weightUnit": "80g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Pepparsalami Skivad",
+        "weight": "80G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 21.9,
+        "weightUnit": "80g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Chorizo Sarta Ring",
+        "weight": "225G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 35.9,
+        "weightUnit": "225g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Gourmet Kalkon Rökt Skivad",
+        "weight": "300G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 48.9,
+        "weightUnit": "300g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Tryffelsalami Haga Petters",
+        "weight": "60G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 22.9,
+        "weightUnit": "60g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Salami Haga Petters",
+        "weight": "60G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 22.9,
+        "weightUnit": "60g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Chilisalami Haga Petters",
+        "weight": "60G",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/h3d/h64/9308137619486/7391196003627_1544824170435_master_axfood_300",
+        "price": 22.9,
+        "weightUnit": "60g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Chorizo Skivad",
+        "weight": "70G",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/h68/hd2/13852958326814/8437000542278_1673612435091_master_axfood_300",
+        "price": 19.9,
+        "weightUnit": "70g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Salchichón Skivad",
+        "weight": "70G",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/h5f/h76/13852957736990/8437000542261_1673612129034_master_axfood_300",
+        "price": 19.9,
+        "weightUnit": "70g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Skinka Serrano Skivad",
+        "weight": "50G",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/h14/hf1/8857428852766/08437000542025.jpg_master_axfood_300",
+        "price": 19.9,
+        "weightUnit": "50g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Leverpastej Skivbar",
+        "weight": "500G",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/hfe/h96/8892395520030/07311041070765.jpg_1484562664364_master_axfood_300",
+        "price": 24.9,
+        "weightUnit": "500g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Cabanossi Ölkorv",
+        "weight": "50G",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/he1/hec/8948536213534/07392555502041.jpg_1500286813568_master_axfood_300",
+        "price": 17.5,
+        "weightUnit": "50g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Ölkorv Hot Amigo",
+        "weight": "50G",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/h35/h12/9148849946654/7392555502065_1528231234651_master_axfood_300",
+        "price": 16.9,
+        "weightUnit": "50g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Caramba Ölkorv",
+        "weight": "50G",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/h6d/h92/12762768474142/7392555502027_1647216354182_master_axfood_300",
+        "price": 17.5,
+        "weightUnit": "50g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Jambalaya Ölkorv",
+        "weight": "50G",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/h91/hfc/8967344259102/07392555502485.jpg_1504566334725_master_axfood_300",
+        "price": 17.5,
+        "weightUnit": "50g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Joddlarkorv Ölkorv",
+        "weight": "50G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 17.5,
+        "weightUnit": "50g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Falukorv",
+        "weight": "300G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 24.9,
+        "weightUnit": "300g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Falukorv Deli",
+        "weight": "550G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 39.9,
+        "weightUnit": "550g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Lantkorv",
+        "weight": "800G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 29.9,
+        "weightUnit": "800g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Jägarfalukorv Deli",
+        "weight": "550G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 45.9,
+        "weightUnit": "550g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Hamburgare Ekologisk Sverige",
+        "weight": "452G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 69.9,
+        "weightUnit": "452g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Mild Chorizo Bonböna Och Svamp Vegetarisk",
+        "weight": "240G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 34.9,
+        "weightUnit": "240g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Skinka Westfalisk Lufttorkad Skivad",
+        "weight": "100G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 32.9,
+        "weightUnit": "100g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Isterband Småländska Långa",
+        "weight": "330G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 25.9,
+        "weightUnit": "330g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Bacon Tärnad",
+        "weight": "140G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 15.9,
+        "weightUnit": "140g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Kycklingspett Soya Frysta",
+        "weight": "1.5KG",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 279,
+        "weightUnit": "1.5kg",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Kycklingspett Chili Frysta",
+        "weight": "1.5KG",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 289,
+        "weightUnit": "1.5kg",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Biberli Salam Kalkon &amp; Paprika Mortadella Skivad",
+        "weight": "900G",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/h26/h0f/9661859430430/4018342754129_1573053941592_master_axfood_300",
+        "price": 59.9,
+        "weightUnit": "900g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Bosna Salami",
+        "weight": "600G",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/h30/h6b/9647459336222/4018342174972_1572255694018_master_axfood_300",
+        "price": 79.9,
+        "weightUnit": "600g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Tavuk Salam Kalkon Mortadella Skivad",
+        "weight": "900G",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/hd0/h7f/9647444033566/4018342754068_1572255369462_master_axfood_300",
+        "price": 59.9,
+        "weightUnit": "900g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Kyckling Bröstfilé Fryst",
+        "weight": "2KG",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/h1c/h9e/9574151651358/7313940011566_1567504583584_master_axfood_300",
+        "price": 219,
+        "weightUnit": "2kg",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Isterband Syrliga",
+        "weight": "300G",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/h02/h37/9264066854942/7316260001576_1540537304988_master_axfood_300",
+        "price": 25.9,
+        "weightUnit": "300g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Isterband",
+        "weight": "300G FRP",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/h37/h8f/9264063971358/7316260001590_1540536376962_master_axfood_300",
+        "price": 21.9,
+        "weightUnit": "300g frp",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Vegokorv",
+        "weight": "4ST/200G",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/h5b/hae/12114390286366/7340083485558_1632484567004_master_axfood_300",
+        "price": 22.9,
+        "weightUnit": "4st/200g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Kycklingkorv Liten",
+        "weight": "400G",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/h0d/h4d/9338046382110/3830042432272_1547723443794_master_axfood_300",
+        "price": 35.9,
+        "weightUnit": "400g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Blodpudding",
+        "weight": "500G",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/h17/he1/13650827345950/7310943092523_1669212634235_master_axfood_300",
+        "price": 10.5,
+        "weightUnit": "500g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Blodpudding Glutenfri",
+        "weight": "475G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 14.5,
+        "weightUnit": "475g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Skinka Basturökt",
+        "weight": "100G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 17.9,
+        "weightUnit": "100g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Rökt Skinka",
+        "weight": "100G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 17.9,
+        "weightUnit": "100g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Skinka Långkokt",
+        "weight": "100G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 17.9,
+        "weightUnit": "100g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Salchichón De La Garrotxa",
+        "weight": "300G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 79.9,
+        "weightUnit": "300g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Carpaccio",
+        "weight": "118G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 39.9,
+        "weightUnit": "118g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Sudjuk med Vitlök",
+        "weight": "450G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 73.9,
+        "weightUnit": "450g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Pilsnerpinne Haga-petters",
+        "weight": "110G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 29.9,
+        "weightUnit": "110g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Chicken Southern Fried Filet",
+        "weight": "300G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 37.9,
+        "weightUnit": "300g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Chicken Tom Yum Bits",
+        "weight": "220G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 37.9,
+        "weightUnit": "220g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Sigir Salami Nöt",
+        "weight": "400G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 49.9,
+        "weightUnit": "400g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Tryffelsalami",
+        "weight": "90G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 45.9,
+        "weightUnit": "90g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Fänkålssalami",
+        "weight": "90G",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/h80/h4f/10568221949982/8032841846518_1601550664250_master_axfood_300",
+        "price": 45.9,
+        "weightUnit": "90g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Coppa Di Parma",
+        "weight": "90G",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/h00/hce/9554504155166/8032841840226_1566329156840_master_axfood_300",
+        "price": 49.9,
+        "weightUnit": "90g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Prosciutto 18 Månader",
+        "weight": "80G",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/hd9/h4f/9793892646942/8032841846310_1579609539217_master_axfood_300",
+        "price": 59.9,
+        "weightUnit": "80g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Salami Tryffelost",
+        "weight": "80G",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/h2e/h6a/12063982944286/8032841847027_1631105440937_master_axfood_300",
+        "price": 45.9,
+        "weightUnit": "80g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Fiocco D´oro",
+        "weight": "80G",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/h6d/h6e/9599539675166/8032841842329_1569222509203_master_axfood_300",
+        "price": 59.9,
+        "weightUnit": "80g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Roasted Coppa",
+        "weight": "90G",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/h8d/hdb/9554504548382/8032841843531_1566329160397_master_axfood_300",
+        "price": 45.9,
+        "weightUnit": "90g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Wild Chips",
+        "weight": "40G",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/h9e/hbf/13001351168030/7394316000025_1653029174584_master_axfood_300",
+        "price": 31.9,
+        "weightUnit": "40g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Rostbiff Mor Matildas Grillad Skivad",
+        "weight": "200G",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/h79/hb4/9391647424542/7391196007731_1551825699803_master_axfood_300",
+        "price": 69.9,
+        "weightUnit": "200g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Bror Jakobs Skinka Gallerrökt Buffepack",
+        "weight": "300G",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/h71/h92/8887153754142/07391196007540.jpg_1482493653101_master_axfood_300",
+        "price": 65.9,
+        "weightUnit": "300g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Bror Jakobs Kallrökt Skinka Skivad",
+        "weight": "70G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 29.9,
+        "weightUnit": "70g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Salami Haga Petter Skivad",
+        "weight": "80G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 29.9,
+        "weightUnit": "80g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Bror Jakobs Pepparskinka Skivad",
+        "weight": "110G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 29.9,
+        "weightUnit": "110g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Skinka Flatrökt Skivad",
+        "weight": "110G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 28.9,
+        "weightUnit": "110g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Skinkstek",
+        "weight": "CA: 1KG",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 89.9,
+        "weightUnit": "ca: 1kg",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Revben Knäckta Sverige",
+        "weight": "CA: 1.1KG",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 68.9,
+        "weightUnit": "ca: 1.1kg",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Fläskytterfilé",
+        "weight": "CA: 900G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 97.9,
+        "weightUnit": "ca: 900g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Cabanossy",
+        "weight": "450G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 48.9,
+        "weightUnit": "450g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Korv Cheddar &amp; Chili",
+        "weight": "335G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 58.9,
+        "weightUnit": "335g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Ostfrankfurter",
+        "weight": "335G",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/h30/hb7/12318588534814/5707196273069_1637841667872_master_axfood_300",
+        "price": 58.9,
+        "weightUnit": "335g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Chimichurri Korv",
+        "weight": "450G",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/ha7/hfb/13904343072798/5707196305845_1674709217946_master_axfood_300",
+        "price": 48.9,
+        "weightUnit": "450g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Chorizo",
+        "weight": "330G",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/h11/hdb/12657543217182/7387414100001_1644912970108_master_axfood_300",
+        "price": 27.9,
+        "weightUnit": "330g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Pustabratwurst",
+        "weight": "330G",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/ha0/he5/12657543544862/7387414200008_1644913270129_master_axfood_300",
+        "price": 27.9,
+        "weightUnit": "330g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Salsicciakorv Färsk Sverige",
+        "weight": "350G",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/h5e/h95/9247594840094/7340045507885_1538776557147_master_axfood_300",
+        "price": 38.9,
+        "weightUnit": "350g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Chorizokorv Färsk Sverige",
+        "weight": "350G",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/hce/h8a/9247594512414/7340045507557_1538776533607_master_axfood_300",
+        "price": 38.9,
+        "weightUnit": "350g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Nötkorv Persilja &amp; Vitlök Sverige",
+        "weight": "270G",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/h39/h45/9247597133854/7340045508585_1538776859512_master_axfood_300",
+        "price": 42.9,
+        "weightUnit": "270g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Färskkorv Balkan Style",
+        "weight": "270G",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/hd4/h73/13926417104926/7311043001118_1675154718336_master_axfood_300",
+        "price": 42.9,
+        "weightUnit": "270g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Wienerkorv Kalkon",
+        "weight": "300G",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/ha3/h01/11475476971550/7331044008619_1617691238584_master_axfood_300",
+        "price": 38.9,
+        "weightUnit": "300g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Fuet Extra Tryffel",
+        "weight": "150G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 39.9,
+        "weightUnit": "150g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Peperonisnack Hot",
+        "weight": "100G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 23.9,
+        "weightUnit": "100g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Peperonisnacks",
+        "weight": "100G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 23.9,
+        "weightUnit": "100g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Oliver med Ost&amp;vitlök",
+        "weight": "300G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 46.9,
+        "weightUnit": "300g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Oliver med Örter Gröna",
+        "weight": "300G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 39.9,
+        "weightUnit": "300g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Entrecoté Skivad Utvald",
+        "weight": "180G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 81.9,
+        "weightUnit": "180g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Ryggbiff Skivad Utvald",
+        "weight": "180G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 81.9,
+        "weightUnit": "180g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Chorizo Smoked Ring",
+        "weight": "225G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 45.9,
+        "weightUnit": "225g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Köttbullar Eko",
+        "weight": "300G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 29.9,
+        "weightUnit": "300g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Nötköttbulle Eko Fryst",
+        "weight": "400G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 39.9,
+        "weightUnit": "400g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Serranolindad Manchego",
+        "weight": "66G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 26.9,
+        "weightUnit": "66g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Vitlöksoliver",
+        "weight": "150G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 16.9,
+        "weightUnit": "150g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Oliver Vitost",
+        "weight": "150G",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/h1e/h63/13013067694110/7611612142540_1653396949810_master_axfood_300",
+        "price": 16.9,
+        "weightUnit": "150g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Paprika Färskostfylld",
+        "weight": "120G",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/hc9/h4c/8871994458142/07611612142021.jpg_1473237082022_master_axfood_300",
+        "price": 28.9,
+        "weightUnit": "120g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Mammutoliver",
+        "weight": "150G",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/h93/h0e/13013068021790/7611612142557_1653396951383_master_axfood_300",
+        "price": 22.9,
+        "weightUnit": "150g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Tomater Soltorkade",
+        "weight": "120G",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/h55/h7c/8862300078110/07611612141215.jpg_master_axfood_300",
+        "price": 18.9,
+        "weightUnit": "120g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Oliver med Chili",
+        "weight": "140G",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/h1c/h5e/9050996113438/07611612142267.jpg_1516581982367_master_axfood_300",
+        "price": 18.9,
+        "weightUnit": "140g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Peppar Röd Spansk Färskostfylld",
+        "weight": "130G",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/he6/hdd/9431392256030/7611612149389_1554887170352_master_axfood_300",
+        "price": 28.9,
+        "weightUnit": "130g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Cajna Bosnisk Oxkorv",
+        "weight": "300G",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/h51/ha6/8871637876766/09120018530465.jpg_1472747730280_master_axfood_300",
+        "price": 74.9,
+        "weightUnit": "300g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Saltufo Tryffelsalami Tunnskivad",
+        "weight": "80G",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/ha5/h3c/8956515254302/04008298680825.jpg_1502573788386_master_axfood_300",
+        "price": 54.9,
+        "weightUnit": "80g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Kryddjärpar Mammas",
+        "weight": "300G",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/h93/h13/10832219013150/7300207204007_1606895236031_master_axfood_300",
+        "price": 34.9,
+        "weightUnit": "300g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Pepparsalami",
+        "weight": "350G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 49.9,
+        "weightUnit": "350g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Salami Danish Style",
+        "weight": "380G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 49.9,
+        "weightUnit": "380g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Salami Milano Organic",
+        "weight": "70G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 39.9,
+        "weightUnit": "70g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Mortadella",
+        "weight": "120G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 29.9,
+        "weightUnit": "120g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Truffle Salami Skivad",
+        "weight": "80G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 24.9,
+        "weightUnit": "80g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Salami Fennel",
+        "weight": "80G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 29.9,
+        "weightUnit": "80g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Italian Selection Bresaola",
+        "weight": "80G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 49.9,
+        "weightUnit": "80g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Coppa",
+        "weight": "80G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 29.9,
+        "weightUnit": "80g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Kyckling Hel Eko Krav Svensk",
+        "weight": "CA: 2KG",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 139,
+        "weightUnit": "ca: 2kg",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Gustoso Aperitivo",
+        "weight": "140G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 69.9,
+        "weightUnit": "140g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Aperitivo Festivo",
+        "weight": "135G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 64.9,
+        "weightUnit": "135g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Innerfilé Tunna",
+        "weight": "500G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 79.9,
+        "weightUnit": "500g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Vingetter Drumetter Grillkryddade",
+        "weight": "CA: 1KG",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/h8e/h31/13938591924254/2350207700004_1675374037176_master_axfood_300",
+        "price": 47.9,
+        "weightUnit": "ca: 1kg",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Kycklingspett Paprika Örter",
+        "weight": "480G",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/h9e/he2/12736581337118/7391049001749_1646643973603_master_axfood_300",
+        "price": 92.9,
+        "weightUnit": "480g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Kycklingspett Jalapeno Vitlök",
+        "weight": "480G",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/h51/h01/12626439438366/7391049003088_1644312979197_master_axfood_300",
+        "price": 92.9,
+        "weightUnit": "480g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Kycklingspett Lårfilè Chili&amp;ingefära",
+        "weight": "480G",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/h0f/hd8/12736581664798/7391049002319_1646644271102_master_axfood_300",
+        "price": 92.9,
+        "weightUnit": "480g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Läckökorv Kallrökt Bit",
+        "weight": "300G",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/h8b/h6d/10832247324702/7300202062008_1606895441128_master_axfood_300",
+        "price": 37.9,
+        "weightUnit": "300g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Prickig Korv Skivad",
+        "weight": "100G",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/h26/h2a/11862156312606/7300200264008_1624966858159_master_axfood_300",
+        "price": 17.9,
+        "weightUnit": "100g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Medwurst Kokt Skivad",
+        "weight": "110G",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/hde/heb/11862111879198/7300202713009_1624965948852_master_axfood_300",
+        "price": 17.9,
+        "weightUnit": "110g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Köttbullar Mamma Scans Skivor",
+        "weight": "100G",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/hb8/h9d/13911183065118/7300204528007_1674801034757_master_axfood_300",
+        "price": 17.9,
+        "weightUnit": "100g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Rökt Skinka Skivad",
+        "weight": "100G",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/hed/hf7/11756026200094/7300200287007_1622621113145_master_axfood_300",
+        "price": 22.9,
+        "weightUnit": "100g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Hästkött Granrökt Skivad",
+        "weight": "100G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 23.9,
+        "weightUnit": "100g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Tryffelsalami Skivad",
+        "weight": "80G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 39.9,
+        "weightUnit": "80g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Skinka Lufttorkad Skivad",
+        "weight": "70G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 39.9,
+        "weightUnit": "70g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Lufttorkad Skinka Långlagrad",
+        "weight": "65G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 39.9,
+        "weightUnit": "65g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Grillkorv",
+        "weight": "1.6KG",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 125,
+        "weightUnit": "1.6kg",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Falukorv",
+        "weight": "800G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 59.9,
+        "weightUnit": "800g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Chorizo Smal",
+        "weight": "270G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 44.9,
+        "weightUnit": "270g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Grillkorv Tjock",
+        "weight": "560G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 59.9,
+        "weightUnit": "560g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Sidfläsk med Svål Rimmat Bit",
+        "weight": "CA: 400G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 89.9,
+        "weightUnit": "ca: 400g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Stekfläsk med Svål Rimmat Bit",
+        "weight": "CA: 800G",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/h5c/ha5/10523052933150/2364481900005_1600461368616_master_axfood_300",
+        "price": 87.9,
+        "weightUnit": "ca: 800g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Gustafskorv Ring Halv",
+        "weight": "400G",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/h55/h26/8854132555806/07330094000130.jpg_master_axfood_300",
+        "price": 51.9,
+        "weightUnit": "400g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Karré Benfri Bit Danmark",
+        "weight": "CA: 1.2KG",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/h1f/h22/9285821038622/2385903700003_1542750346095_master_axfood_300",
+        "price": 94.9,
+        "weightUnit": "ca: 1.2kg",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Pepparsalami Skivad",
+        "weight": "120G",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/h5f/h05/9391521333278/6409630008525_1551822739865_master_axfood_300",
+        "price": 26.9,
+        "weightUnit": "120g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Salami Klassisk Skivad",
+        "weight": "120G",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/hc1/h6f/12917548122142/6409630008501_1651051235844_master_axfood_300",
+        "price": 26.9,
+        "weightUnit": "120g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Vitlökssalami Skivad",
+        "weight": "120G",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/h30/h05/9391521005598/6409630008518_1551822733624_master_axfood_300",
+        "price": 26.9,
+        "weightUnit": "120g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Pepperoni Salami Skivad",
+        "weight": "120G",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/h55/h53/9391517204510/6409630008570_1551822080282_master_axfood_300",
+        "price": 27.9,
+        "weightUnit": "120g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Flankstek",
+        "weight": "CA: 740G",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/he6/hfb/9097588080670/2355036600006_1522053936619_master_axfood_300",
+        "price": 219,
+        "weightUnit": "ca: 740g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Entrecôte",
+        "weight": "CA: 580G",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/hde/hb1/9097587752990/2355036500009_1522053930950_master_axfood_300",
+        "price": 339,
+        "weightUnit": "ca: 580g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Ryggbiff",
+        "weight": "CA: 570G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 339,
+        "weightUnit": "ca: 570g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Middagskorv Vego",
+        "weight": "300G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 33.9,
+        "weightUnit": "300g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Kalventrecôte",
+        "weight": "350G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 115,
+        "weightUnit": "350g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Kalvbiff",
+        "weight": "350G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 109,
+        "weightUnit": "350g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Leverpastej Grovhackad",
+        "weight": "200G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 15.9,
+        "weightUnit": "200g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Salchichon Iberico",
+        "weight": "75G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 39.9,
+        "weightUnit": "75g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Chorizo Iberico",
+        "weight": "75G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 36.9,
+        "weightUnit": "75g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Jamon Iberico",
+        "weight": "60G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 52.9,
+        "weightUnit": "60g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Falukorv",
+        "weight": "500G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 43.9,
+        "weightUnit": "500g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Rökt Skinka Eko Skivad",
+        "weight": "100G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 28.9,
+        "weightUnit": "100g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Kokt Skinka Skivad",
+        "weight": "100G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 28.9,
+        "weightUnit": "100g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Korv Ost &amp; Bacon Skinnfri 15-p",
+        "weight": "1.5KG",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 145,
+        "weightUnit": "1.5kg",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Bresaola Svensk Lufttorkad",
+        "weight": "75G",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/ha2/h68/13141270724638/7300204428000_1656557725638_master_axfood_300",
+        "price": 38.9,
+        "weightUnit": "75g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Coppa Lufttorkad",
+        "weight": "80G",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/hd2/h68/13590665494558/7300204527000_1667830867196_master_axfood_300",
+        "price": 38.9,
+        "weightUnit": "80g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Parmesan Salami Snacks",
+        "weight": "70G",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/h00/h80/13141269741598/5707196290011_1656557426774_master_axfood_300",
+        "price": 21.5,
+        "weightUnit": "70g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Truffle Salami Snacks",
+        "weight": "70G",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/h7f/h85/12567439605790/5707196289985_1643147171686_master_axfood_300",
+        "price": 21.5,
+        "weightUnit": "70g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Krakowska Kielbasa",
+        "weight": "320G",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/h7d/h01/11008533856286/5900308522196_1610055630391_master_axfood_300",
+        "price": 64.9,
+        "weightUnit": "320g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Gutewurst Grillkorv",
+        "weight": "300G",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/hd2/h19/11148935364638/7340062456432_1612302086598_master_axfood_300",
+        "price": 36.9,
+        "weightUnit": "300g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Prosciutto Crudo Lufttorkad",
+        "weight": "80G",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/hcd/hd1/12594075140126/7300201628007_1643636774965_master_axfood_300",
+        "price": 38.9,
+        "weightUnit": "80g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Tryffelsalami Lufttorkad",
+        "weight": "75G",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/h2d/h0e/12635122303006/7300200728005_1644417342655_master_axfood_300",
+        "price": 38.9,
+        "weightUnit": "75g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Fänkålssalami Lufttorkad",
+        "weight": "75G",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/h01/h61/12594073305118/7300200834003_1643636479705_master_axfood_300",
+        "price": 38.9,
+        "weightUnit": "75g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Kryddkorv Tryffel&amp;svartpeppar",
+        "weight": "300G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 36.9,
+        "weightUnit": "300g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Chorizo Paprika&amp;oregano",
+        "weight": "300G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 36.9,
+        "weightUnit": "300g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Lammkorv",
+        "weight": "180G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 38.9,
+        "weightUnit": "180g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Blandfärs 18% Sverige",
+        "weight": "500G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 57.9,
+        "weightUnit": "500g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Nötfärs 12% Sverige",
+        "weight": "500G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 67.9,
+        "weightUnit": "500g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Fuet Peppar",
+        "weight": "150G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 33.9,
+        "weightUnit": "150g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Chorizo Paprika Chili Cayennepeppar",
+        "weight": "210G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 32.9,
+        "weightUnit": "210g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Cabanossy Anchochili Och Cayennepeppar",
+        "weight": "210G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 32.9,
+        "weightUnit": "210g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Göteborgare Äpple &amp; Bacon",
+        "weight": "210G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 32.9,
+        "weightUnit": "210g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Chorizo Dulce",
+        "weight": "200G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 29.9,
+        "weightUnit": "200g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Chorizo Picante",
+        "weight": "200G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 29.9,
+        "weightUnit": "200g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Kalvfärs Rullpack",
+        "weight": "400G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 49.9,
+        "weightUnit": "400g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Wienerkorv",
+        "weight": "1.4KG",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/hbf/h93/12712721186846/7320020041429_1646120451724_master_axfood_300",
+        "price": 119,
+        "weightUnit": "1.4kg",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Läckökorv Kallrökt Skivad",
+        "weight": "100G",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/hf3/hef/13911182737438/7300201727007_1674801031959_master_axfood_300",
+        "price": 17.9,
+        "weightUnit": "100g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Salsiccia Curva Original",
+        "weight": "250G",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/hde/h3c/13911180771358/7340012517107_1674800432725_master_axfood_300",
+        "price": 42.9,
+        "weightUnit": "250g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Salsiccia Curva Piccante",
+        "weight": "250G",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/h06/h8f/13911181099038/7340012517206_1674800442240_master_axfood_300",
+        "price": 42.9,
+        "weightUnit": "250g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Kalkonklubba Rökt",
+        "weight": "CA: 600G",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/hb4/h9f/8854127312926/2366025200008.jpg_master_axfood_300",
+        "price": 79.9,
+        "weightUnit": "ca: 600g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Lantpaté",
+        "weight": "150G",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/h02/he6/8856130289694/05410321200150.jpg_master_axfood_300",
+        "price": 22.9,
+        "weightUnit": "150g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Grönpepparpaté",
+        "weight": "150G",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/hcd/h2e/13725723394078/5410321290151_1670860545049_master_axfood_300",
+        "price": 22.9,
+        "weightUnit": "150g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Vitlök Ölkorv",
+        "weight": "105G",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/h46/h5b/11894837215262/7350037193392_1625898959855_master_axfood_300",
+        "price": 32.9,
+        "weightUnit": "105g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Gudfadern Ölkorv",
+        "weight": "105G",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/hbb/h06/11894836887582/7350037193385_1625898958347_master_axfood_300",
+        "price": 32.9,
+        "weightUnit": "105g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Svea Ölkorv",
+        "weight": "105G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 32.9,
+        "weightUnit": "105g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Nötblod",
+        "weight": "500G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 29.5,
+        "weightUnit": "500g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Vitlöksklyftor Marinerade",
+        "weight": "160G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 24.9,
+        "weightUnit": "160g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Oliver Vitlöksspäckade",
+        "weight": "175G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 27.9,
+        "weightUnit": "175g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Spansk Ost Chilimarinerad",
+        "weight": "130G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 29.9,
+        "weightUnit": "130g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Örtmarinad Kronärtskocka",
+        "weight": "120G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 24.9,
+        "weightUnit": "120g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Ceviche",
+        "weight": "120G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 27.9,
+        "weightUnit": "120g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Entrecôte Skivad Sverige",
+        "weight": "CA: 500G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 355,
+        "weightUnit": "ca: 500g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Nötstek Nätad Sverige",
+        "weight": "CA: 1KG",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 169,
+        "weightUnit": "ca: 1kg",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Lövbiff Skivad Sverige",
+        "weight": "CA: 500G",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/he0/haa/9019442233374/02313713100003.jpg_1512411063754_master_axfood_300",
+        "price": 229,
+        "weightUnit": "ca: 500g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Ölkorv Jambalaya",
+        "weight": "200G",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/hfa/h95/14074102677534/7340109309073_1678441235362_master_axfood_300",
+        "price": 49.9,
+        "weightUnit": "200g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Ölkorv Tryffel &amp; Parmesan",
+        "weight": "200G",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/h85/hea/14074103005214/7340109309080_1678441237273_master_axfood_300",
+        "price": 49.9,
+        "weightUnit": "200g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Ölkorv Vitlökspinne",
+        "weight": "200G",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/h6a/h8b/14074102349854/7340109309042_1678441233632_master_axfood_300",
+        "price": 49.9,
+        "weightUnit": "200g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Wiernerkorv",
+        "weight": "400G",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/h67/h47/14145772847134/7350037195631_1680085845895_master_axfood_300",
+        "price": 49.9,
+        "weightUnit": "400g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Prinskorv",
+        "weight": "335G",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/h83/h1d/14181806964766/7350037195655_1681216558543_master_axfood_300",
+        "price": 46.9,
+        "weightUnit": "335g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Högrevsfärs med Bringa",
+        "weight": "500G",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/h14/ha2/13380621172766/7340083494758_1662997246571_master_axfood_300",
+        "price": 84.9,
+        "weightUnit": "500g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Chorizo Kycklingkorv",
+        "weight": "320G",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/h63/h2c/14074101694494/7340109306560_1678441230034_master_axfood_300",
+        "price": 57.9,
+        "weightUnit": "320g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Gås Fryst",
+        "weight": "CA: 5.25KG",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/h0c/hed/13401314820126/2376212000007_1663381862157_master_axfood_300",
+        "price": 195,
+        "weightUnit": "ca: 5.25kg",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Lammchorizo",
+        "weight": "380G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 57.9,
+        "weightUnit": "380g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Käsekrainer",
+        "weight": "380G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 57.9,
+        "weightUnit": "380g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Debreziner",
+        "weight": "380G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 57.9,
+        "weightUnit": "380g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Kosakenwurst",
+        "weight": "380G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 57.9,
+        "weightUnit": "380g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Bierwurst",
+        "weight": "380G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 57.9,
+        "weightUnit": "380g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Höllenwurst",
+        "weight": "380G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 57.9,
+        "weightUnit": "380g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Vildsvinskorv",
+        "weight": "380G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 57.9,
+        "weightUnit": "380g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Bratwurst Thüringer Art",
+        "weight": "380G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 57.9,
+        "weightUnit": "380g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Bockwurst Kapruner",
+        "weight": "380G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 57.9,
+        "weightUnit": "380g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Kycklingkorv",
+        "weight": "500G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 47.9,
+        "weightUnit": "500g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Kalkon Fryst",
+        "weight": "3.2KG",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 209,
+        "weightUnit": "3.2kg",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Delikatesskorv Västerbottenost &amp; Ramslök",
+        "weight": "200G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 39.9,
+        "weightUnit": "200g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Delikatesskorv Västerbottenost",
+        "weight": "200G",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/h59/h13/13904345694238/7350085092470_1674709823205_master_axfood_300",
+        "price": 39.9,
+        "weightUnit": "200g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Lammfärs 20% Smak av Gotland Sverige",
+        "weight": "500G",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/he0/h39/10393803489310/7340062404044_1597237243792_master_axfood_300",
+        "price": 84.9,
+        "weightUnit": "500g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Flintastek Sverige",
+        "weight": "CA: 870G",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/h2b/hed/11326526586910/2320083900003_1615190151241_master_axfood_300",
+        "price": 62.9,
+        "weightUnit": "ca: 870g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Karré Rapsgris",
+        "weight": "300G",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/hf7/h77/14070656794654/7300203196009_1678440332295_master_axfood_300",
+        "price": 44.9,
+        "weightUnit": "300g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Grillskiva Orginal Sverige",
+        "weight": "CA: 1.05KG",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/hc2/h7f/10832200859678/2320738700002_1606895117064_master_axfood_300",
+        "price": 84.9,
+        "weightUnit": "ca: 1.05kg",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Grillspett Mild Anchochili Sverige",
+        "weight": "380G",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/hbe/hf5/11423737610270/7300200619006_1616676036987_master_axfood_300",
+        "price": 44.9,
+        "weightUnit": "380g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Karré Rökig Chili Sverige",
+        "weight": "CA: 675G",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/h23/hef/11861438300190/2320247200000_1624958736615_master_axfood_300",
+        "price": 115,
+        "weightUnit": "ca: 675g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Lövbiff Skivad Sverige",
+        "weight": "CA: 450G",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/h0f/h11/8920171675678/02355001900001.jpg_1492788064041_master_axfood_300",
+        "price": 199,
+        "weightUnit": "ca: 450g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Rostasfilé Sverige",
+        "weight": "CA: 900G",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/hca/hba/8921917718558/02355008200005.jpg_1493278821209_master_axfood_300",
+        "price": 219,
+        "weightUnit": "ca: 900g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Entrecôte i Skivor Sverige",
+        "weight": "CA: 450G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 295,
+        "weightUnit": "ca: 450g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Ryggbiff i Skivor Sverige",
+        "weight": "CA: 550G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 289,
+        "weightUnit": "ca: 550g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Entrecôte Bit Sverige",
+        "weight": "CA: 1.1KG",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 265,
+        "weightUnit": "ca: 1.1kg",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Grillspett Nötkött",
+        "weight": "380G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 56.9,
+        "weightUnit": "380g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Entrecôte Extra Marmorerad Sverige",
+        "weight": "CA: 350G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 389,
+        "weightUnit": "ca: 350g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Ryggbiff Bit Sverige",
+        "weight": "CA: 900G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 245,
+        "weightUnit": "ca: 900g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Minutbiff av Nötrulle Skivad Sverige",
+        "weight": "CA: 300G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 145,
+        "weightUnit": "ca: 300g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Pepparbiff av Nöt Sverige",
+        "weight": "CA: 300G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 209,
+        "weightUnit": "ca: 300g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Oxfilé i Bit Sverige",
+        "weight": "CA: 800G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 459,
+        "weightUnit": "ca: 800g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Rostbiff i Skivor Sverige",
+        "weight": "CA: 350G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 209,
+        "weightUnit": "ca: 350g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Högrev Bit Sverige",
+        "weight": "CA: 1.2KG",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 139,
+        "weightUnit": "ca: 1.2kg",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Oxfile i Skivor Sverige",
+        "weight": "CA: 300G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 519,
+        "weightUnit": "ca: 300g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Ryggbiff Extra Marmorerad Sverige",
+        "weight": "CA: 250G",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/h17/h48/8920164073502/02355026600009.jpg_1492785075334_master_axfood_300",
+        "price": 359,
+        "weightUnit": "ca: 250g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Grytbitar Nöt Sverige",
+        "weight": "CA: 600G",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/h09/hb1/10556827402270/2355034700005_1601323837256_master_axfood_300",
+        "price": 119,
+        "weightUnit": "ca: 600g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Fläskfilé Danmark",
+        "weight": "CA: 500G",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/he9/h9a/10246974996510/2385900400005_1592985661528_master_axfood_300",
+        "price": 109,
+        "weightUnit": "ca: 500g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Falukorv Eko",
+        "weight": "600G",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/h90/hea/8937628696606/07340083459467.jpg_1497475856761_master_axfood_300",
+        "price": 49.9,
+        "weightUnit": "600g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Arbogapastej Minilimpa",
+        "weight": "250G",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/h97/h27/8854182166558/7310941803220.jpg_master_axfood_300",
+        "price": 13.5,
+        "weightUnit": "250g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Arbogapastej Skivbar",
+        "weight": "500G",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/hf0/hd7/8854223061022/7310941803237.jpg_master_axfood_300",
+        "price": 26.9,
+        "weightUnit": "500g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Fläskkarre Benfri Sverige",
+        "weight": "CA: 1KG",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/h3f/h45/9019425128478/02313724200006.jpg_1512409901748_master_axfood_300",
+        "price": 139,
+        "weightUnit": "ca: 1kg",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Köttbullar Stekta",
+        "weight": "400G",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/h40/h3a/10493115105310/7331044000811_1599689162793_master_axfood_300",
+        "price": 50.9,
+        "weightUnit": "400g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Hamburgerfärs",
+        "weight": "1.5KG",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/hd0/h47/13887522144286/7340083499104_1667291308590_master_axfood_300",
+        "price": 149,
+        "weightUnit": "1.5kg",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Lammfiol",
+        "weight": "CA: 1.35KG",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 199,
+        "weightUnit": "ca: 1.35kg",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Märgben av Nöt",
+        "weight": "CA: 1.5KG",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 26.9,
+        "weightUnit": "ca: 1.5kg",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Köttbullar Fryst",
+        "weight": "1KG",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 44.9,
+        "weightUnit": "1kg",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Rostbiff Skivad",
+        "weight": "200G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 49.9,
+        "weightUnit": "200g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Köttbullar",
+        "weight": "1KG",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 46.9,
+        "weightUnit": "1kg",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Prinskorv",
+        "weight": "240G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 22.9,
+        "weightUnit": "240g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Prinskorv",
+        "weight": "900G",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 69.9,
+        "weightUnit": "900g",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Stek-&amp;grillbit Gourmetmörad",
+        "weight": "CA: 1.1KG",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 79.9,
+        "weightUnit": "ca: 1.1kg",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Kotlett i Bit Gourmetmörad Sverige",
+        "weight": "CA: 1KG",
+        "imageUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "price": 98.9,
+        "weightUnit": "ca: 1kg",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Nötfärs 20% Irland",
+        "weight": "CA: 1KG",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/h27/hd0/9440514572318/2355022600003_1555585578981_master_axfood_300",
+        "price": 98.9,
+        "weightUnit": "ca: 1kg",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Blandfärs 20% Danmark Irland",
+        "weight": "CA: 2.2KG",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/h56/h1c/9943300964382/2355022900004_1585328467424_master_axfood_300",
+        "price": 83.9,
+        "weightUnit": "ca: 2.2kg",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Nötfärs 20% Irland",
+        "weight": "CA: 2.2KG",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/h93/h9d/9440479739934/2355022700000_1555584076180_master_axfood_300",
+        "price": 96.9,
+        "weightUnit": "ca: 2.2kg",
+        "category": "Grönsaker"
+    },
+    {
+        "name": "Kalkon Fryst",
+        "weight": "3.6KG",
+        "imageUrl": "https://d2rfo6yapuixuu.cloudfront.net/h59/h79/8857860079646/03280319000367.jpg_master_axfood_300",
+        "price": 235,
+        "weightUnit": "3.6kg",
+        "category": "Grönsaker"
+    }
+]
